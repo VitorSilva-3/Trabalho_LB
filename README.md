@@ -4,9 +4,9 @@
 
 Repositório criado por:
 - [Bárbara Freitas](https://github.com/barbarafreitas22) PG55693
-- [Filipe Vasconcelos]() PG55697
-- [João Faria]() PG55700
-- [Vítor Silva]() PG55538
+- [Filipe Vasconcelos](https://github.com/Celos13) PG55697
+- [João Faria](https://github.com/JohnnyFarians24) PG55700
+- [Vítor Silva](https://github.com/VitorSilva-3) PG55538
 
 Organismo:
 - *Bacteroides thetaiotaomicron*
