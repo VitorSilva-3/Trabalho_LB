@@ -1,1 +1,1 @@
-#Laboratórios de Bioinformática 24/25
+Laboratórios de Bioinformática 24/25
