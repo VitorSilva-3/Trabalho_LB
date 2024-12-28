@@ -17,4 +17,4 @@ Genes analisados:
 - dinB
 - dnaA
 
-Link para o padlet:
+Link para o Padlet:
