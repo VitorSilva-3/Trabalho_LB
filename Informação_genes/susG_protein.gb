@@ -1,0 +1,91 @@
+LOCUS       WP_011108937             692 aa            linear   BCT 01-MAY-2023
+DEFINITION  alpha-amylase SusG [Bacteroides thetaiotaomicron].
+ACCESSION   WP_011108937
+VERSION     WP_011108937.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteroides thetaiotaomicron
+  ORGANISM  Bacteroides thetaiotaomicron
+            Bacteria; Pseudomonadati; Bacteroidota; Bacteroidia; Bacteroidales;
+            Bacteroidaceae; Bacteroides.
+REFERENCE   1  (residues 1 to 692)
+  AUTHORS   Koropatkin,N.M. and Smith,T.J.
+  TITLE     SusG: a unique cell-membrane-associated alpha-amylase from a
+            prominent human gut symbiont targets complex starch molecules
+  JOURNAL   Structure 18 (2), 200-215 (2010)
+   PUBMED   20159465
+REFERENCE   2  (residues 1 to 692)
+  AUTHORS   Cho,K.H. and Salyers,A.A.
+  TITLE     Biochemical analysis of interactions between outer membrane
+            proteins that contribute to starch utilization by Bacteroides
+            thetaiotaomicron
+  JOURNAL   J Bacteriol 183 (24), 7224-7230 (2001)
+   PUBMED   11717282
+REFERENCE   3  (residues 1 to 692)
+  AUTHORS   Reeves,A.R., Wang,G.R. and Salyers,A.A.
+  TITLE     Characterization of four outer membrane proteins that play a role
+            in utilization of starch by Bacteroides thetaiotaomicron
+  JOURNAL   J Bacteriol 179 (3), 643-649 (1997)
+   PUBMED   9006015
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            REFSEQ INFORMATION: The reference sequence is identical to Q8A1G3.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR015925
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..692
+                     /organism="Bacteroides thetaiotaomicron"
+                     /db_xref="taxon:818"
+     gene            1..692
+                     /gene="susG"
+     Protein         1..692
+                     /product="alpha-amylase SusG"
+                     /EC_number="3.2.1.1"
+                     /calculated_mol_wt=77828
+     Region          61..607
+                     /region_name="AmyAc_bac2_AmyA"
+                     /note="Alpha amylase catalytic domain found in bacterial
+                     Alpha-amylases (also called
+                     1,4-alpha-D-glucan-4-glucanohydrolase); cd11316"
+                     /db_xref="CDD:200455"
+     Site            order(73,75,77,81,153,352)
+                     /site_type="other"
+                     /note="Ca binding site [ion binding]"
+                     /db_xref="CDD:200455"
+     Site            order(112,114,154,345,350,386,388..389,391..392,431,433,
+                     456,497..498,544..545,549)
+                     /site_type="active"
+                     /db_xref="CDD:200455"
+     Region          222..331
+                     /region_name="CBM58_SusG"
+                     /note="Carbohydrate-binding module 58 from Bacteroides
+                     thetaiotaomicron SusG and similar CBMs; cd12961"
+                     /db_xref="CDD:240569"
+     Site            order(260,262..264,287,290,299,304,330)
+                     /site_type="other"
+                     /note="starch binding site [chemical binding]"
+                     /db_xref="CDD:240569"
+     Site            order(388,431,498)
+                     /site_type="active"
+                     /note="catalytic site [active]"
+                     /db_xref="CDD:200455"
+ORIGIN      
+        1 mnkhlhflsl lwlsmlmafm tacsddknit dpapepeppv egqwtaltas pdtwdetkra
+       61 disyqlllys fadsdgdgyg dlngvtqkld ylnqlgvkal wlspihpcms yhgydvtdyt
+      121 kvnpqlgtes dfdrlvteah nrgikiyldy vmnhtgtahp wfteasssse spyrnyysfs
+      181 edpktdiaag kiamitqega agynaaewfq vsdetaavkg llkftldwsn apspilvvst
+      241 gtkadednpd tgtdnakyly ygedickkfy dkgnniyelt vdfestwgll irtsnasfwp
+      301 sgtkygasss seklalnkdf kltnagnpan imfdsqqity fhshfctdwf adlnygpvdq
+      361 agespayqai adaakgwiar gvdglrldav khiyhsetse enprflkmfy edmnayykqk
+      421 ghtddfymig evlseydkva pyykglpalf efsfwyrlew ginnstgcyf akdilsyqqk
+      481 yanyrsdyie atklsnhded rtssklgksa dkcklaaavl ltsaghpyiy ygeelglygt
+      541 kdngdeyvrs pmlwgdsytt nytdktdatv sknvktvadq qadthsllni yfsltrlrnt
+      601 ypalaegnmt khsvynesqe kdykpiaawy mtkdnekllv ihnfggtamq lpltdkiekv
+      661 lfvngetqqn tdsdsytlkl ggyasvvfkl gn
+//
+

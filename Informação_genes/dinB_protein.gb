@@ -1,0 +1,87 @@
+LOCUS       WP_008760075             363 aa            linear   BCT 11-DEC-2019
+DEFINITION  MULTISPECIES: DNA polymerase IV [Bacteroides].
+ACCESSION   WP_008760075
+VERSION     WP_008760075.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteroides
+  ORGANISM  Bacteroides
+            Bacteria; Pseudomonadati; Bacteroidota; Bacteroidia; Bacteroidales;
+            Bacteroidaceae.
+REFERENCE   1  (residues 1 to 363)
+  AUTHORS   Rechkoblit,O., Malinina,L., Cheng,Y., Kuryavyi,V., Broyde,S.,
+            Geacintov,N.E. and Patel,D.J.
+  TITLE     Stepwise translocation of Dpo4 polymerase during error-free bypass
+            of an oxoG lesion
+  JOURNAL   PLoS Biol. 4 (1), e11 (2006)
+   PUBMED   16379496
+REFERENCE   2  (residues 1 to 363)
+  AUTHORS   Courcelle,C.T., Belle,J.J. and Courcelle,J.
+  TITLE     Nucleotide excision repair or polymerase V-mediated lesion bypass
+            can act to restore UV-arrested replication forks in Escherichia
+            coli
+  JOURNAL   J. Bacteriol. 187 (20), 6953-6961 (2005)
+   PUBMED   16199565
+REFERENCE   3  (residues 1 to 363)
+  AUTHORS   Kuban,W., Banach-Orlowska,M., Bialoskorska,M., Lipowska,A.,
+            Schaaper,R.M., Jonczyk,P. and Fijalkowska,I.J.
+  TITLE     Mutator phenotype resulting from DNA polymerase IV overproduction
+            in Escherichia coli: preferential mutagenesis on the lagging strand
+  JOURNAL   J. Bacteriol. 187 (19), 6862-6866 (2005)
+   PUBMED   16166552
+REFERENCE   4  (residues 1 to 363)
+  AUTHORS   Vaisman,A., Ling,H., Woodgate,R. and Yang,W.
+  TITLE     Fidelity of Dpo4: effect of metal ions, nucleotide selection and
+            pyrophosphorolysis
+  JOURNAL   EMBO J. 24 (17), 2957-2967 (2005)
+   PUBMED   16107880
+REFERENCE   5  (residues 1 to 363)
+  AUTHORS   Layton,J.C. and Foster,P.L.
+  TITLE     Error-prone DNA polymerase IV is regulated by the heat shock
+            chaperone GroE in Escherichia coli
+  JOURNAL   J. Bacteriol. 187 (2), 449-457 (2005)
+   PUBMED   15629916
+REFERENCE   6  (residues 1 to 363)
+  AUTHORS   Fujii,S., Gasser,V. and Fuchs,R.P.
+  TITLE     The biochemical requirements of DNA polymerase V-mediated
+            translesion synthesis revisited
+  JOURNAL   J. Mol. Biol. 341 (2), 405-417 (2004)
+   PUBMED   15276832
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF002677.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK02406
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..363
+                     /organism="Bacteroides"
+                     /db_xref="taxon:816"
+     gene            1..363
+                     /gene="dinB"
+     Protein         1..363
+                     /product="DNA polymerase IV"
+                     /EC_number="2.7.7.7"
+                     /GO_function="GO:0003684 - damaged DNA binding [Evidence
+                     IEA]; GO:0003887 - DNA-directed DNA polymerase activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0006281 - DNA repair [Evidence IEA]"
+                     /calculated_mol_wt=41273
+     Region          11..348
+                     /region_name="PRK02406"
+                     /note="DNA polymerase IV; Validated"
+                     /db_xref="CDD:235035"
+ORIGIN      
+        1 mfqrkiihid mdafyasveq rdhpelrgkp lavghaeerg vvaaasyear rygvrsamss
+       61 qkakrlcpql ifvsgrmdvy ksvsrqihei fheytdiiep lsldeafldv tenkkgisla
+      121 vdiakeiklr ireqlnlvas agvsynkfla kiasdyrkpd glctihpdqa ldfiaglpie
+      181 sfwgvgpvta kkmhllgihn glqlrkcsle mltahfgkvg alyyecsrgi derpveavri
+      241 rksigcertl erdisvhssv iielyhvave lierlqrkef kgntltlkik fhdfsqitrs
+      301 itqsqelytl drilplakel lksveyeqhp irliglsvsn pkeeadeqhg vweqlsfefs
+      361 dwe
+//
+

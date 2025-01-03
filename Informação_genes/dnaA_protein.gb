@@ -1,0 +1,69 @@
+LOCUS       WP_008759760             470 aa            linear   BCT 29-APR-2021
+DEFINITION  MULTISPECIES: chromosomal replication initiator protein DnaA
+            [Bacteroides].
+ACCESSION   WP_008759760
+VERSION     WP_008759760.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteroides
+  ORGANISM  Bacteroides
+            Bacteria; Pseudomonadati; Bacteroidota; Bacteroidia; Bacteroidales;
+            Bacteroidaceae.
+REFERENCE   1  (residues 1 to 470)
+  AUTHORS   Tsodikov,O.V. and Biswas,T.
+  TITLE     Structural and thermodynamic signatures of DNA recognition by
+            Mycobacterium tuberculosis DnaA
+  JOURNAL   J Mol Biol 410 (3), 461-476 (2011)
+   PUBMED   21620858
+REFERENCE   2  (residues 1 to 470)
+  AUTHORS   Kaguni,J.M.
+  TITLE     DnaA: controlling the initiation of bacterial DNA replication and
+            more
+  JOURNAL   Annu Rev Microbiol 60, 351-375 (2006)
+   PUBMED   16753031
+REFERENCE   3  (residues 1 to 470)
+  AUTHORS   Yoshikawa,H. and Ogasawara,N.
+  TITLE     Structure and function of DnaA and the DnaA-box in eubacteria:
+            evolutionary relationships of bacterial replication origins
+  JOURNAL   Mol Microbiol 5 (11), 2589-2597 (1991)
+   PUBMED   1779750
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR00362.1
+            Evidence Source    :: JCVI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..470
+                     /organism="Bacteroides"
+                     /db_xref="taxon:816"
+     gene            1..470
+                     /gene="dnaA"
+     Protein         1..470
+                     /product="chromosomal replication initiator protein DnaA"
+                     /GO_function="GO:0005524 - ATP binding [Evidence IEA];
+                     GO:0003677 - DNA binding [Evidence IEA]; GO:0003688 - DNA
+                     replication origin binding [Evidence IEA]"
+                     /GO_process="GO:0006270 - DNA replication initiation
+                     [Evidence IEA]; GO:0006275 - regulation of DNA replication
+                     [Evidence IEA]"
+                     /calculated_mol_wt=53120
+     Region          5..468
+                     /region_name="dnaA"
+                     /note="chromosomal replication initiator protein DnaA;
+                     PRK00149"
+                     /db_xref="CDD:234667"
+ORIGIN      
+        1 miesnhvvlw nrclevikdn vpettyntwf apivplkyed ktlivqipsq ffyeileekf
+       61 vdllrktlyk aigegtklmy nvmvdktsip nqtvnleasn rstavtpksi vggnkapsfl
+      121 kapavqdldp hlnpnynfen fiegysnkls rsvaeavaqn pagtafnplf lygasgvgkt
+      181 hlanaigtki kelyadkrvl yvsahlfqvq ytdsvrnntt ndfinfyqti dvliiddiqe
+      241 fagvtktqnt ffhifnhlhq ngkqliltsd rapvllqgme erlltrfkwg mvaelekptv
+      301 elrknilrnk ihrdglqfpp evidyiaenv nesvrdlegi viaimarsti fnkeidldla
+      361 qhivhgvvhn etkavtiddi lkvvckhfdl easaihtksr krevvqarqi amylaknytd
+      421 fstskigkfi gnkdhatvlh acktvkgqle vdksfqaevq eiesllkkka
+//
+

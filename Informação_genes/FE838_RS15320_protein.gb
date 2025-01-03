@@ -1,0 +1,83 @@
+LOCUS       WP_011107229             438 aa            linear   BCT 01-JUL-2024
+DEFINITION  nucleotide sugar dehydrogenase [Bacteroides thetaiotaomicron].
+ACCESSION   WP_011107229
+VERSION     WP_011107229.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteroides thetaiotaomicron
+  ORGANISM  Bacteroides thetaiotaomicron
+            Bacteria; Pseudomonadati; Bacteroidota; Bacteroidia; Bacteroidales;
+            Bacteroidaceae; Bacteroides.
+REFERENCE   1  (residues 1 to 438)
+  AUTHORS   Miller,W.L., Wenzel,C.Q., Daniels,C., Larocque,S., Brisson,J.R. and
+            Lam,J.S.
+  TITLE     Biochemical characterization of WbpA, a UDP-N-acetyl-D-glucosamine
+            6-dehydrogenase involved in O-antigen biosynthesis in Pseudomonas
+            aeruginosa PAO1
+  JOURNAL   J Biol Chem 279 (36), 37551-37558 (2004)
+   PUBMED   15226302
+REFERENCE   2  (residues 1 to 438)
+  AUTHORS   Zhao,X., Creuzenet,C., Belanger,M., Egbosimba,E., Li,J. and
+            Lam,J.S.
+  TITLE     WbpO, a UDP-N-acetyl-D-galactosamine dehydrogenase from Pseudomonas
+            aeruginosa serotype O6
+  JOURNAL   J Biol Chem 275 (43), 33252-33259 (2000)
+   PUBMED   10931835
+  REMARK    Erratum:[J Biol Chem 2000 Dec 15;275(50):39802]
+REFERENCE   3  (residues 1 to 438)
+  AUTHORS   Pagni,M., Lazarevic,V., Soldo,B. and Karamata,D.
+  TITLE     Assay for UDPglucose 6-dehydrogenase in phosphate-starved cells:
+            gene tuaD of Bacillus subtilis 168 encodes the UDPglucose
+            6-dehydrogenase involved in teichuronic acid synthesis
+  JOURNAL   Microbiology (Reading) 145 (Pt 5), 1049-1053 (1999)
+   PUBMED   10376820
+REFERENCE   4  (residues 1 to 438)
+  AUTHORS   Campos,M., Martinez-Salazar,J.M., Lloret,L., Moreno,S., Nunez,C.,
+            Espin,G. and Soberon-Chavez,G.
+  TITLE     Characterization of the gene coding for GDP-mannose dehydrogenase
+            (algD) from Azotobacter vinelandii
+  JOURNAL   J Bacteriol 178 (7), 1793-1799 (1996)
+   PUBMED   8606150
+REFERENCE   5  (residues 1 to 438)
+  AUTHORS   Meier-Dieter,U., Starman,R., Barr,K., Mayer,H. and Rick,P.D.
+  TITLE     Biosynthesis of enterobacterial common antigen in Escherichia coli.
+            Biochemical characterization of Tn10 insertion mutants defective in
+            enterobacterial common antigen synthesis
+  JOURNAL   J Biol Chem 265 (23), 13490-13497 (1990)
+   PUBMED   2166030
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: TIGR03026.1
+            Evidence Source    :: JCVI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Bacteroides thetaiotaomicron"
+                     /db_xref="taxon:818"
+     Protein         1..438
+                     /product="nucleotide sugar dehydrogenase"
+                     /GO_function="GO:0051287 - NAD binding [Evidence IEA];
+                     GO:0016616 - oxidoreductase activity, acting on the CH-OH
+                     group of donors, NAD or NADP as acceptor [Evidence IEA]"
+                     /GO_process="GO:0000271 - polysaccharide biosynthetic
+                     process [Evidence IEA]"
+                     /calculated_mol_wt=49114
+     Region          6..438
+                     /region_name="PRK15057"
+                     /note="UDP-glucose 6-dehydrogenase; Provisional"
+                     /db_xref="CDD:185017"
+ORIGIN      
+        1 mdtkelkiav agtgyvglsi atllsqhhqv tavdvipekv dmlnrkqspi qdeyiekyls
+       61 ekalnltatl dgakaysdad fviiaaptny dpvknyfdth hiedvidlvl svnpdavmvi
+      121 kstipvgycr glylkyarke vkklnllfsp eflresmaly dnlypsriiv gypklidgeq
+      181 fdeeneaika iadvltleka ahafaallqe gaikkdiptl fmgikeaeav klfantylal
+      241 rvsyfneldt yaemkgldsq siiqgvgldp rigthynnps fgyggyclpk dtkqllanyq
+      301 dvpqnmmtai vesnrtrkdf iadqvlrkag yytascswda qkeqkitigv yrltmksnsd
+      361 nfrqsaiqgi mkrikakgat ivifeptmqd getffgsqvi nnlvefkeis qaiianryda
+      421 clddvkekvy trdifqrd
+//
+
