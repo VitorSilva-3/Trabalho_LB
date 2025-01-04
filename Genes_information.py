@@ -25,9 +25,9 @@ for i in range(len(genes)):
         
         with open(f'Informação_genes/{genes[i]}_protein.gb', "w") as doc:
             doc.write(handle.read())
-    finally:
-        handle.close()
-        
+            handle.close()
+
+
 #Anotação da proteína de cada gene
 from Bio import SeqIO
 from Bio import SeqFeature
