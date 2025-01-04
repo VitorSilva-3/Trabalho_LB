@@ -16,21 +16,15 @@ for i in range(len(genes)):
         continue 
     else:
         handle = Entrez.efetch(db="nucleotide", id=nucleotide_id[i], rettype="gb", retmode="text")
-        with open(f'genes_information/{genes[i]}.gb', "w") as doc:
+        with open(f'Informação_genes/{genes[i]}.gb', "w") as doc:
             doc.write(handle.read()) 
             handle.close()
 
 for i in range(len(genes)):
-    try:
         handle = Entrez.efetch(db="protein", id=protein_id[i], rettype="gb", retmode="text")
         
-        with open(f'genes_information/{genes[i]}_protein.gb', "w") as doc:
+        with open(f'Informação_genes/{genes[i]}_protein.gb', "w") as doc:
             doc.write(handle.read())
-        print(f"Successfully fetched and saved protein information for {genes[i]}.")
-    
-    except Exception as e:
-        print(f"An error occurred while fetching data for {genes[i]}: {e}")
-    
     finally:
         handle.close()
         
@@ -41,7 +35,7 @@ from Bio import SeqFeature
 for gene in genes:
     f=open(f'{gene}.txt','a')
     f.writelines('\n***INFORMACAO RELATIVA A PROTEINA***\n\n')
-    record_prot=SeqIO.read(f"genes_information\{gene}_protein.gb",'genbank')
+    record_prot=SeqIO.read(f"Informação_genes\{gene}_protein.gb",'genbank')
     id=record_prot.name
     seq=record_prot.seq
     tamanho=len(record_prot.seq)
