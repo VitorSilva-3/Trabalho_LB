@@ -18,3 +18,4 @@ Genes analisados:
 - dnaA
 
 Link para o Padlet:
+https://padlet.com/vtsilva3/trabalho_lb-yoe884145n8cdovh
