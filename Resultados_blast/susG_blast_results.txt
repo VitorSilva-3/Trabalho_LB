@@ -1,0 +1,634 @@
+***RESULTADOS DO BLAST PARA A PROTEINA CODIFICADA PELO GENE susG***
+
+Accession number (NCBI) da proteina codificada pelo gene susG: WP_011108937.1
+Numero de hits: 15
+Matriz usada no alinhamento: BLOSUM62
+Penalidades de espacamentos (abertura,propagacao): (11, 1)
+Base de proteinas usada: swissprot
+
+---MELHORES ALINHAMENTOS---
+
+Alinhameto 1: Proteina codifica pelo gene susG
+	Accession number (relativo a base de dados usado no blast): Q8A1G3
+	Definicao: RecName: Full=Alpha-amylase SusG; AltName: Full=Starch-utilization system protein G; Flags: Precursor [Bacteroides thetaiotaomicron VPI-5482]
+
+Alinhamento 2
+	Accession number hit (relativo a base de dados usado no blast): P14899
+	Definicao: RecName: Full=Alpha-amylase 3; AltName: Full=1,4-alpha-D-glucan glucanohydrolase [Dictyoglomus thermophilum H-6-12]
+	Tamanho do hit: 499 aa
+	Numero de hsps: 2
+		Numero hsp: 1
+			E-value: 2.23687e-37
+			Score: 376.0
+			Tamanho hsp: 126 aa
+			Numero de aa identicos: 69
+			Numero de aa identicos e positivos: 89
+			Numero de gaps: 1
+		Numero hsp: 2
+			E-value: 1.29154e-36
+			Score: 371.0
+			Tamanho hsp: 329 aa
+			Numero de aa identicos: 99
+			Numero de aa identicos e positivos: 166
+			Numero de gaps: 29
+
+Alinhamento 3
+	Accession number hit (relativo a base de dados usado no blast): P20845
+	Definicao: RecName: Full=Alpha-amylase; AltName: Full=1,4-alpha-D-glucan glucanohydrolase; Flags: Precursor [Priestia megaterium]
+	Tamanho do hit: 520 aa
+	Numero de hsps: 2
+		Numero hsp: 1
+			E-value: 4.74263e-33
+			Score: 344.0
+			Tamanho hsp: 320 aa
+			Numero de aa identicos: 96
+			Numero de aa identicos e positivos: 154
+			Numero de gaps: 23
+		Numero hsp: 2
+			E-value: 2.98647e-29
+			Score: 315.0
+			Tamanho hsp: 134 aa
+			Numero de aa identicos: 60
+			Numero de aa identicos e positivos: 85
+			Numero de gaps: 9
+
+Alinhamento 4
+	Accession number hit (relativo a base de dados usado no blast): Q45101
+	Definicao: RecName: Full=Oligo-1,6-glucosidase; AltName: Full=Dextrin 6-alpha-D-glucanohydrolase; AltName: Full=Oligosaccharide alpha-1,6-glucosidase; AltName: Full=Sucrase-isomaltase; Short=Isomaltase [Heyndrickxia coagulans]
+	Tamanho do hit: 555 aa
+	Numero de hsps: 2
+		Numero hsp: 1
+			E-value: 2.09046e-31
+			Score: 333.0
+			Tamanho hsp: 126 aa
+			Numero de aa identicos: 61
+			Numero de aa identicos e positivos: 84
+			Numero de gaps: 2
+		Numero hsp: 2
+			E-value: 7.12259e-08
+			Score: 142.0
+			Tamanho hsp: 375 aa
+			Numero de aa identicos: 86
+			Numero de aa identicos e positivos: 137
+			Numero de gaps: 94
+
+Alinhamento 5
+	Accession number hit (relativo a base de dados usado no blast): P39795
+	Definicao: RecName: Full=Trehalose-6-phosphate hydrolase; AltName: Full=Alpha,alpha-phosphotrehalase; AltName: Full=Phospho-alpha-(1-1)-glucosidase [Bacillus subtilis subsp. subtilis str. 168]
+	Tamanho do hit: 561 aa
+	Numero de hsps: 2
+		Numero hsp: 1
+			E-value: 1.50249e-30
+			Score: 326.0
+			Tamanho hsp: 117 aa
+			Numero de aa identicos: 60
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 1
+		Numero hsp: 2
+			E-value: 6.04375e-10
+			Score: 159.0
+			Tamanho hsp: 393 aa
+			Numero de aa identicos: 93
+			Numero de aa identicos e positivos: 145
+			Numero de gaps: 92
+
+Alinhamento 6
+	Accession number hit (relativo a base de dados usado no blast): Q54796
+	Definicao: RecName: Full=Glucan 1,6-alpha-glucosidase; AltName: Full=Dextran glucosidase; AltName: Full=Exo-1,6-alpha-glucosidase; AltName: Full=Glucodextranase [Streptococcus pneumoniae TIGR4]
+	Tamanho do hit: 535 aa
+	Numero de hsps: 2
+		Numero hsp: 1
+			E-value: 6.42461e-30
+			Score: 321.0
+			Tamanho hsp: 123 aa
+			Numero de aa identicos: 58
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 1
+		Numero hsp: 2
+			E-value: 0.000189119
+			Score: 113.0
+			Tamanho hsp: 381 aa
+			Numero de aa identicos: 86
+			Numero de aa identicos e positivos: 137
+			Numero de gaps: 78
+
+
+---ALINHAMENTOS---
+
+Numero alinhamento: 1
+	Proteina codificada pelo gene accession number (relativo a base de dados usado no blast): Q8A1G3
+	Definicao: RecName: Full=Alpha-amylase SusG; AltName: Full=Starch-utilization system protein G; Flags: Precursor [Bacteroides thetaiotaomicron VPI-5482]
+	Tamanho da proteina: 692 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 0.0
+			Score: 3719.0
+			Tamanho do hsp: 692
+			Numero de aa identicos: 692
+			Numero de aa identicos e positivos: 692
+			Numero de gaps: 0
+			Sequencia da proteina:
+				MNKHLHFLSLLWLSMLMAFMTACSDDKNITDPAPEPEPPVEGQWTALTASPDTWDETKRADISYQLLLYSFADSDGDGYGDLNGVTQKLDYLNQLGVKAL
+				WLSPIHPCMSYHGYDVTDYTKVNPQLGTESDFDRLVTEAHNRGIKIYLDYVMNHTGTAHPWFTEASSSSESPYRNYYSFSEDPKTDIAAGKIAMITQEGA
+				AGYNAAEWFQVSDETAAVKGLLKFTLDWSNAPSPILVVSTGTKADEDNPDTGTDNAKYLYYGEDICKKFYDKGNNIYELTVDFESTWGLLIRTSNASFWP
+				SGTKYGASSSSEKLALNKDFKLTNAGNPANIMFDSQQITYFHSHFCTDWFADLNYGPVDQAGESPAYQAIADAAKGWIARGVDGLRLDAVKHIYHSETSE
+				ENPRFLKMFYEDMNAYYKQKGHTDDFYMIGEVLSEYDKVAPYYKGLPALFEFSFWYRLEWGINNSTGCYFAKDILSYQQKYANYRSDYIEATKLSNHDED
+				RTSSKLGKSADKCKLAAAVLLTSAGHPYIYYGEELGLYGTKDNGDEYVRSPMLWGDSYTTNYTDKTDATVSKNVKTVADQQADTHSLLNIYFSLTRLRNT
+				YPALAEGNMTKHSVYNESQEKDYKPIAAWYMTKDNEKLLVIHNFGGTAMQLPLTDKIEKVLFVNGETQQNTDSDSYTLKLGGYASVVFKLGN
+
+Numero alinhamento: 2
+	Hit accession number (relativo a base de dados usada no blast): P14899
+	Definicao: RecName: Full=Alpha-amylase 3; AltName: Full=1,4-alpha-D-glucan glucanohydrolase [Dictyoglomus thermophilum H-6-12]
+	Tamanho do hit: 499 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 2.23687e-37
+			Score: 376.0
+			Tamanho do hsp: 126
+			Numero de aa identicos: 69
+			Numero de aa identicos e positivos: 89
+			Numero de gaps: 1
+			Sequencia do hit:
+				IFYEVFVRSFADSDGDRVGDLNGLIDKLDYFKNLNITALWLMPIFPSVSYHGYDVTDYYDIHPGYGTMEDFENLIRKAHEKNIKIILDLVVNHTSSRHPW
+				FVSSASSYNSPYRDYYIWSTEKPEKN
+			Sequencia do alinhamento:
+				I Y++ + SFADSDGD  GDLNG+  KLDY   L + ALWL PI P +SYHGYDVTDY  ++P  GT  DF+ L+ +AH + IKI LD V+NHT + HPW
+				F  ++SS  SPYR+YY +S E P+ +
+
+		Numero do hsp:2
+			E-value: 1.29154e-36
+			Score: 371.0
+			Tamanho do hsp: 329
+			Numero de aa identicos: 99
+			Numero de aa identicos e positivos: 166
+			Numero de gaps: 29
+			Sequencia do hit:
+				EEVKKIAKFWIEKGVDGFRLDAAKHIYDDDS--KNIQWWKEFYSYL------KSIKPDVYLVGEVWDNEYKIAEYYKGLPSNFNFPLSDKIMNSVANQKD
+				LGIIEFLEFERELFGENNTDFADAIFLRNHDQVRVRTFFGGSIDKSILAGSIYLTLPGIPFIYYGEEIGMEGSK--PDEYIREPFKWTDDMKSKYQTYWI
+				IPRYNLPGNGIALDTEEKDPNSIYNHYKKLLEIRVKCRALSNGKIERIKTQDRS-------ILAYKLELEDEKIMVVHNLNRIENTFNFNNEIKEKDILY
+				IRNAKTEKN------KIILGPYSTVIVKI
+			Sequencia do alinhamento:
+				+ +   AK WI +GVDG RLDA KHIY  ++  +N ++ K FY  +      K    D Y++GEV     K+A YYKGLP+ F F    ++   + N   
+				    + +   ++ +    +D+ +A  L NHD+ R  +  G S DK  LA ++ LT  G P+IYYGEE+G+ G+K   DEY+R P  W D   + Y     
+				     +  N   +  ++ D +S+ N Y  L  +R    AL+ G + +    + S       I A+ +  ++EK++V+HN           ++I++  +L+
+				+ N +T++N       + LG Y++V+ K+
+
+Numero alinhamento: 3
+	Hit accession number (relativo a base de dados usada no blast): P20845
+	Definicao: RecName: Full=Alpha-amylase; AltName: Full=1,4-alpha-D-glucan glucanohydrolase; Flags: Precursor [Priestia megaterium]
+	Tamanho do hit: 520 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 4.74263e-33
+			Score: 344.0
+			Tamanho do hsp: 320
+			Numero de aa identicos: 96
+			Numero de aa identicos e positivos: 154
+			Numero de gaps: 23
+			Sequencia do hit:
+				YFYGTFW-EGMPDLNY-------DNPEVRKEMINVGKFWLKQGVDGFRLDAALHIFKGQTPEGAKKNILWWNEFRDAMKKE---NPNVYLTGEVWDQPEV
+				VAPYYQSLDSLFNFDLAGKIVSSVKAGNDQGIATAAAATDELFKSYNPNKIDGIFLTNHDQNRVMSELSGDVNKAKSAASILLTLPGNPYIYYGEEIGMT
+				GEKP--DELIREPFRWYEGNGIGQTSWETPVYNKGGNGVSVEAQTKQKDSLLNHYREMIRVRQQHEELVKGTLQSISV-------DSKEVVAYSRTYKGK
+				SISVYHNISNQPVKVSVAAK
+			Sequencia do alinhamento:
+				YF+  F  +   DLNY       ++P   + + +  K W+ +GVDG RLDA  HI+  +T E   + +  + E  +A  K+     + Y+ GEV  + + 
+				VAPYY+ L +LF F    ++   +        A    +  + + +Y  + I+   L+NHD++R  S+L    +K K AA++LLT  G+PYIYYGEE+G+ 
+				G K   DE +R P  W +      T       +K  N  +V  Q     SLLN Y  + R+R  +  L +G +   SV       D K + A+  T   +
+				 + V HN     +++ +  K
+
+		Numero do hsp:2
+			E-value: 2.98647e-29
+			Score: 315.0
+			Tamanho do hsp: 134
+			Numero de aa identicos: 60
+			Numero de aa identicos e positivos: 85
+			Numero de gaps: 9
+			Sequencia do hit:
+				VFYEVYVNSFYDANKDGHGDLKGLTQKLDYLNDGNSHTKNDLQVNGIWMMPVNPSPSYHKYDVTDYYNIDPQYGNLQDFRKLMKEADKRDVKVIMDLVVN
+				HTSSEHPWFQAALKDKNSKYRDYYIWA-DKNTDL
+			Sequencia do alinhamento:
+				+ Y++ + SF D++ DG+GDL G+TQKLDYLN         L V  +W+ P++P  SYH YDVTDY  ++PQ G   DF +L+ EA  R +K+ +D V+N
+				HT + HPWF  A     S YR+YY ++ D  TD+
+
+Numero alinhamento: 4
+	Hit accession number (relativo a base de dados usada no blast): Q45101
+	Definicao: RecName: Full=Oligo-1,6-glucosidase; AltName: Full=Dextrin 6-alpha-D-glucanohydrolase; AltName: Full=Oligosaccharide alpha-1,6-glucosidase; AltName: Full=Sucrase-isomaltase; Short=Isomaltase [Heyndrickxia coagulans]
+	Tamanho do hit: 555 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 2.09046e-31
+			Score: 333.0
+			Tamanho do hsp: 126
+			Numero de aa identicos: 61
+			Numero de aa identicos e positivos: 84
+			Numero de gaps: 2
+			Sequencia do hit:
+				VVYQIYPRSFYDTNGDGIGDLRGIMDKLDYLKTLGIDCIWISPVYDSPQDDNGYDIRDYRKIDKMFGTNEDMDRLLDEAHARGIKIVMDLVVNHTSDEHA
+				WFVESRKSKDNPYRDFY-FWKDPKPD
+			Sequencia do alinhamento:
+				+ YQ+   SF D++GDG GDL G+  KLDYL  LG+  +W+SP++      +GYD+ DY K++   GT  D DRL+ EAH RGIKI +D V+NHT   H 
+				WF E+  S ++PYR++Y F +DPK D
+
+		Numero do hsp:2
+			E-value: 7.12259e-08
+			Score: 142.0
+			Tamanho do hsp: 375
+			Numero de aa identicos: 86
+			Numero de aa identicos e positivos: 137
+			Numero de gaps: 94
+			Sequencia do hit:
+				KEIYDMMKFWMDKGVDGWRMDVIGSISKFLDFPDYELPEGQKYGIGKYHAN----GPR-LHAFIQEMNREVLSKY---DCMTVGEAIGSDVEIARKYTG-
+				PDRHELNMIFNFEHMDVDTKPGSPAGKWALKPFDLVELKQILSRWQYELADTGWNALYFENHDQARVVSRWGNDTTYRAECAKAFATILHGLKGTPFIYQ
+				GEEIGMVNADLELEEYDDIEIRNAYQELVMENQIMSKDEFLTAVRKKGRDNARTPMQWDGSFNAGFTTGTPWLKVNSRYSEINVAKALQEPD--SIFYYY
+				QSLIKLRHSYDVFTDGRY-------ELLMPDHPHLYVYTRENESEKLLVAANLSENTVSFDQPDDNWKLLLGNYE
+			Sequencia do alinhamento:
+				+ I D  K W+ +GVDG R+D +  I                     YH+      PR L  F ++MN     K    D   +GE +    ++A  Y G 
+				P   E +  +  E   ++   G    K      D++  +Q  + ++ +  +    A    NHD+ R  S+ G      A+  K  A +L    G P+IY 
+				GEE+G                                   L   +  G +  R+PM W  S+   +T      K ++  S+     A Q+ D  S+   Y
+				 SL +LR++Y    +G         E    D+  +  +    ++EKLLV  N     +     D   K+L  N E
+
+Numero alinhamento: 5
+	Hit accession number (relativo a base de dados usada no blast): P39795
+	Definicao: RecName: Full=Trehalose-6-phosphate hydrolase; AltName: Full=Alpha,alpha-phosphotrehalase; AltName: Full=Phospho-alpha-(1-1)-glucosidase [Bacillus subtilis subsp. subtilis str. 168]
+	Tamanho do hit: 561 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 1.50249e-30
+			Score: 326.0
+			Tamanho do hsp: 117
+			Numero de aa identicos: 60
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 1
+			Sequencia do hit:
+				VVYQIYPKSFNDTTGNGVGDLNGIIEKLDYLKTLQVDVLWLTPIYDSPQHDNGYDIRDYYSIYPEYGTMEDFERLVSEAHKRDLKVVMDLVVNHTSTEHK
+				WFREAISSIDSPYRDFY
+			Sequencia do alinhamento:
+				+ YQ+   SF D+ G+G GDLNG+ +KLDYL  L V  LWL+PI+    + +GYD+ DY  + P+ GT  DF+RLV+EAH R +K+ +D V+NHT T H 
+				WF EA SS +SPYR++Y
+
+		Numero do hsp:2
+			E-value: 6.04375e-10
+			Score: 159.0
+			Tamanho do hsp: 393
+			Numero de aa identicos: 93
+			Numero de aa identicos e positivos: 145
+			Numero de gaps: 92
+			Sequencia do hit:
+				VYDMMHFWFEKGIDGFRLDVINLI------SKDQRFPNAEEGDGRSFYTDGPRVHEFLHEMNEKVFSHYDSMTVGEMSSTTVDHCIRYTNPDNKELDMTF
+				SF---HHLKVDYPNGEKWALAPFDFLKLKEILSDWQTGMHAGGGWNALFWCNHDQPRVVSRYGDDGAYRVKSAKMLATAIHMMQGTPYIYQGEELGMTNP
+				KFTDISSYRDVESLNMYHAFKEKGMADQDITAILQAKSRDNSRTPVQWDATENGGFTTGTPWIPVAGNYREINAEAALRDQNSVFYHYQKLIQIRKMYDI
+				VTEGTY-------EIIAKDDPNIFAYLRHGSNEKLLVINNFYGTEAAFTLPDSLAPDEWKAEVLLTNDEAREGLQN----MTLRPYESIVYRL
+			Sequencia do alinhamento:
+				+ D    W  +G+DG RLD +  I       ++ RF      D  ++Y       +F   M  +V S YD +                  P  K L   F
+				 F   + L+    N      A  D L  ++  +++++         A    NHD+ R  S+ G          K+ A  +    G PYIY GEELG+   
+				                   +  K   D+ +            R+P+ W  +    +T  T    V+ N + +  + A  D +S+   Y  L ++R  Y  
+				+ EG         E   KD   I A+     NEKLLVI+NF GT     L D +       +VL  N E ++   +    + L  Y S+V++L
+
+Numero alinhamento: 6
+	Hit accession number (relativo a base de dados usada no blast): Q54796
+	Definicao: RecName: Full=Glucan 1,6-alpha-glucosidase; AltName: Full=Dextran glucosidase; AltName: Full=Exo-1,6-alpha-glucosidase; AltName: Full=Glucodextranase [Streptococcus pneumoniae TIGR4]
+	Tamanho do hit: 535 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 6.42461e-30
+			Score: 321.0
+			Tamanho do hsp: 123
+			Numero de aa identicos: 58
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 1
+			Sequencia do hit:
+				VVYQVYPKSFMDSNGDGVGDLPGITSKLDYLAKLGITAIWLSPVYDSPMDDNGYDIADYQAIAAIFGTMEDMDQLIAEAKKRDIRIIMDLVVNHTSDEHA
+				WFVEACENTDSPERDYYIWRDEP
+			Sequencia do alinhamento:
+				+ YQ+   SF DS+GDG GDL G+T KLDYL +LG+ A+WLSP++   M  +GYD+ DY  +    GT  D D+L+ EA  R I+I +D V+NHT   H 
+				WF EA  +++SP R+YY + ++P
+
+		Numero do hsp:2
+			E-value: 0.000189119
+			Score: 113.0
+			Tamanho do hsp: 381
+			Numero de aa identicos: 86
+			Numero de aa identicos e positivos: 137
+			Numero de gaps: 78
+			Sequencia do hit:
+				YYLHFFSKKQPDLNWE------NEKLRQKIYEMMNFWIDKGIGGFRMDVIDMIGKIPDEKVVNNGPMLHPYLKEMNQATFGDK----DLLTVGETWGATP
+				EIAKFYSD-PKGQELSMVFQFEHIGLQYQEGQPKWHYQKELNIAKLKEIFNKWQTELGVEDGW-NSLFWNNHDLPRIVSIWGNDQEYREKSAKAFAILLH
+				LMRGTPYIYQGEEIGMTNYPFETLDQVEDIESLNYAREALEKGVPIEEIMDSIRVIGRDNARTPMQWDESKNAGFSTGQPWLAVNPNYEMINVQEALANP
+				DSIFYTYQKLVQIRKENSWLVRADF-------ELLDTADKVFA--YIRKDGDRRFLVVANLSNEEQDLTVEGKVKSVLIEN
+			Sequencia do alinhamento:
+				++ HF +    DLN+            Q I +    WI +G+ G R+D +  I     E    N   L  + ++MN A +  K    D   +GE      
+				++A +Y   P   E S  ++ E            W           K+I +  Q        +  +   +NHD  R  S  G   +   K   A A+LL 
+				   G PYIY GEE+G+    + T D                               G +  R+PM W +S    + T +    V+ N + +  Q+  A+ 
+				 S+   Y  L ++R     L   +        E  +   K  A  Y+ KD + + LV+ N       L +  K++ VL  N
+
+Numero alinhamento: 7
+	Hit accession number (relativo a base de dados usada no blast): P29093
+	Definicao: RecName: Full=Oligo-1,6-glucosidase; AltName: Full=Dextrin 6-alpha-D-glucanohydrolase; AltName: Full=Oligosaccharide alpha-1,6-glucosidase; AltName: Full=Sucrase-isomaltase; Short=Isomaltase [Bacillus sp. F5]
+	Tamanho do hit: 509 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 1.2e-29
+			Score: 318.0
+			Tamanho do hsp: 126
+			Numero de aa identicos: 58
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 2
+			Sequencia do hit:
+				VVYQIYPRSFYDSNGDGFGDLQGVIQKLDYIKRLGADVIWLCPVFDSPQDDNGYDISDYRSIYEKFGTNDDMFQLIDEVHKRGMKIIMDLVVNHSSDEHA
+				WFAESRKSKDNPYRDYY-FWKDPKAD
+			Sequencia do alinhamento:
+				+ YQ+   SF DS+GDG+GDL GV QKLDY+ +LG   +WL P+       +GYD++DY  +  + GT  D  +L+ E H RG+KI +D V+NH+   H 
+				WF E+  S ++PYR+YY F +DPK D
+
+		Numero do hsp:2
+			E-value: 0.531866
+			Score: 84.0
+			Tamanho do hsp: 349
+			Numero de aa identicos: 75
+			Numero de aa identicos e positivos: 122
+			Numero de gaps: 94
+			Sequencia do hit:
+				REVYDLMTFWMDRGVDGWRMDVIGSISKFVDFPDYETDDSRPYVVGRYHSN-----GPRLHEFIQEMNREVLSRYDCMTVGEAGGSDVEEAKKYTDPSRH
+				ELNMIFTFEHMDIDTKQHSPNGKWQMKPFDPIALKKTMTRWQTALMNVGWNTLYFE-----NHDQPRVISAGAMTRELRKQSRQSISNSSARHEGNPFIY
+				QGEEIGMTNSEMPLEMYDDLEIKNAYRELVIENKTMTEEDFRKAVAKKGRDHARTPMQWDDGKYAGFTD-GEAWLAVNPRYQEINVKESLADEDSIFYYY
+				QKLIGLRKQNKVIVYGD------YRLLLEEDPR-IFAYIREYRGEKLLV
+			Sequencia do alinhamento:
+				+ + D    W+ RGVDG R+D +  I         ET +  P  +  ++ +       + H     M  EVLS YD +     G            P+  
+				E +  +  E              W +         K +  +Q    N  + + Y E     NHD+ R  S    + +  K +   +  S+    G+P+IY
+				 GEE+G+  ++                                     G ++ R+PM W D     +TD  +A ++ N +     V +  AD  S+   Y
+				  L  LR     +  G+      Y    E+D + I A+      EKLLV
+
+Numero alinhamento: 8
+	Hit accession number (relativo a base de dados usada no blast): P28904
+	Definicao: RecName: Full=Trehalose-6-phosphate hydrolase; AltName: Full=Alpha,alpha-phosphotrehalase [Escherichia coli K-12]
+	Tamanho do hit: 551 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 6.46633e-29
+			Score: 313.0
+			Tamanho do hsp: 126
+			Numero de aa identicos: 64
+			Numero de aa identicos e positivos: 85
+			Numero de gaps: 3
+			Sequencia do hit:
+				VIYQIYPKSFQDTTGSGTGDLRGVIQHLDYLHKLGVDAIWLTPFYVSPQVDNGYDVANYTAIDPTYGTLDDFDELVTQAKSRGIRIILDMVFNHTSTQHA
+				WFREA-LNKESPYRQFYIWRDGEPET
+			Sequencia do alinhamento:
+				+ YQ+   SF D+ G G GDL GV Q LDYL++LGV A+WL+P +      +GYDV +YT ++P  GT  DFD LVT+A +RGI+I LD V NHT T H 
+				WF EA  + ESPYR +Y + + +P+T
+
+		Numero do hsp:2
+			E-value: 5.599e-05
+			Score: 118.0
+			Tamanho do hsp: 217
+			Numero de aa identicos: 57
+			Numero de aa identicos e positivos: 81
+			Numero de gaps: 47
+			Sequencia do hit:
+				ADLNW-------ENPAVRAELKKVCEFWADRGVDGLRLDVVNLI------SKDPRFPEDLDGDGRRFYTDGPRAHEFLHEMNRDVFTPRGLMTVGEMSST
+				SLEHCQRYAALTGS-ELSMTFNFHHLKVDYPGGEKWTLAKPDFVALKTLFRHWQQGMHNVAWN---ALFWCNHDQPRIVSRFGDEGEYRVPAAKMLAMVL
+				HGMQGTPYIYQGEEIGM
+			Sequencia do alinhamento:
+				ADLN+       E+PA +A +    + W  RGVDGLRLD V  I       ++PRF +    D   +Y       +F                +GE+ S 
+				  +    Y  L    E S  +             +W +              +QQ   N   +   A    NHD+ R  S+ G   +      K+ A VL
+				    G PYIY GEE+G+
+
+Numero alinhamento: 9
+	Hit accession number (relativo a base de dados usada no blast): O06994
+	Definicao: RecName: Full=Oligo-1,6-glucosidase 1; AltName: Full=Dextrin 6-alpha-D-glucanohydrolase; AltName: Full=Oligosaccharide alpha-1,6-glucosidase 1; AltName: Full=Sucrase-isomaltase 1; Short=Isomaltase 1 [Bacillus subtilis subsp. subtilis str. 168]
+	Tamanho do hit: 561 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 7.39885e-29
+			Score: 313.0
+			Tamanho do hsp: 126
+			Numero de aa identicos: 58
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 2
+			Sequencia do hit:
+				VVYQIYPRSFYDANGDGFGDLQGVIQKLDYIKNLGADVIWLSPVFDSPQDDNGYDISDYKNMYEKFGTNEDMFQLIDEVHKRGMKIVMDLVVNHTSDEHA
+				WFAESRKSKDNPYRDYYLW-KDPKPD
+			Sequencia do alinhamento:
+				+ YQ+   SF D++GDG+GDL GV QKLDY+  LG   +WLSP+       +GYD++DY  +  + GT  D  +L+ E H RG+KI +D V+NHT   H 
+				WF E+  S ++PYR+YY + +DPK D
+
+		Numero do hsp:2
+			E-value: 0.00266957
+			Score: 104.0
+			Tamanho do hsp: 387
+			Numero de aa identicos: 88
+			Numero de aa identicos e positivos: 146
+			Numero de gaps: 89
+			Sequencia do hit:
+				REVYDVMRFWMDRGVDGWRMDVIGSISKYTDFPDYETDHSRSYIVGRYHSNGPR-LHEFIQEMN---REVLSHYDCMTVGEANGSDIEEAKKYTDASRQE
+				LNMIFTFEH-MDIDKEQNSPNGKWQIKPFDLIALKKTMTRWQTGLMNVGWNTLYFENHDQPRVISRWGNDRKLRKECAKAFATVLHGMKGTPFIYQGEEI
+				GMVNSDMPLEMYDDLEIKNAYRELVVENKTMSEKEFVKAVMIKGRDHARTPMQWDAGKHAGFT-AGDPWIPVNSRYQDINVKESLEDQDSIFFYYQKLIQ
+				LRKQYKIMIYGD------YQLLQENDPQ-VFSYLREYRGEKLLVVVNLSEEKALFEAPPELIHERWKVLISN-YPQERADLKSISLK
+			Sequencia do alinhamento:
+				+ + D  + W+ RGVDG R+D +  I        Y ++ S            PR L  F ++MN   ++     D   +GE   S+ ++   Y     + 
+				L  +F F     ++   N+  G +  K  D+++ ++    +++  +          NHD+ R  S+ G   K   +C K  A VL    G P+IY GEE+
+				G+  +                                      G ++ R+PM W       +T   D  +  N +     V +   D  S+   Y  L +
+				LR  Y  +  G+      Y   QE D + + ++      EKLLV+ N        + P  L  +  KVL  N   Q+  D  S +LK
+
+Numero alinhamento: 10
+	Hit accession number (relativo a base de dados usada no blast): P29094
+	Definicao: RecName: Full=Oligo-1,6-glucosidase; AltName: Full=Dextrin 6-alpha-D-glucanohydrolase; AltName: Full=Oligosaccharide alpha-1,6-glucosidase; AltName: Full=Sucrase-isomaltase; Short=Isomaltase [Parageobacillus thermoglucosidasius]
+	Tamanho do hit: 562 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 2.02556e-28
+			Score: 310.0
+			Tamanho do hsp: 117
+			Numero de aa identicos: 54
+			Numero de aa identicos e positivos: 80
+			Numero de gaps: 1
+			Sequencia do hit:
+				VVYQIYPRSFYDSNGDGIGDIRGIIAKLDYLKELGVDVVWLSPVYKSPNDDNGYDISDYRDIMDEFGTMADWKTMLEEMHKRGIKLVMDLVVNHTSDEHP
+				WFIESRKSKDNPYRDYY
+			Sequencia do alinhamento:
+				+ YQ+   SF DS+GDG GD+ G+  KLDYL +LGV  +WLSP++   +  +GYD++DY  +  + GT +D+  ++ E H RGIK+ +D V+NHT   HP
+				WF E+  S ++PYR+YY
+
+		Numero do hsp:2
+			E-value: 2.20053e-09
+			Score: 154.0
+			Tamanho do hsp: 387
+			Numero de aa identicos: 97
+			Numero de aa identicos e positivos: 148
+			Numero de gaps: 90
+			Sequencia do hit:
+				YYLHLFSKKQPDLNW-------ENPKVRREVYEMMKFWLDKGVDGFRMDVINMISKVPELPDGEPQSGKK-YASGSRYYMNGPRVHEFLQEMNREVLSKY
+				DIMTVGETPGVTPKEGILYTDPSRRELNMVFQFEHMDLDSGPGGKWDIRPWSLADLKKTMTKWQKELEGKGWNSLY-----LNNHDQPRAVSRFGDDGKY
+				RVESAKMLATFLHMMQGTPYIYQGEEIGMTNVRFPSIEDYRDIETLNMYKERVEEYGEDPQEVMEKIYYKGRDNARTPMQWDDSENAGFTAGTPWIPVNP
+				NYKEINVKAALEDPNSVFHYYKKLIQLRKQHDIIVYG------TYDLILEDD-PYIYRYTRTLGNEQLIVITNFSEKTPVFRLPDHI
+			Sequencia do alinhamento:
+				++ H  +    DLN+       E+P   + + +  K W+ +GVDG R+D +  I    E  +  P+  K  Y   + YY       +F   M  EVLS+Y
+				D         V P    L   P+  E +  ++ E           W I   +     K +  +Q++     + S Y     L+NHD+ R  S+ G     
+				  +  K+ A  L    G PYIY GEE+G+                    K+  +EY                   R+PM W DS    +T  T    V+ 
+				N K +  + A  D +S+ + Y  L +LR  +  +  G       Y+   E D   I  +  T  NE+L+VI NF        L D I
+
+Numero alinhamento: 11
+	Hit accession number (relativo a base de dados usada no blast): Q17058
+	Definicao: RecName: Full=Alpha-glucosidase; AltName: Full=Maltase; Flags: Precursor [Apis mellifera]
+	Tamanho do hit: 567 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.83548e-28
+			Score: 308.0
+			Tamanho do hsp: 170
+			Numero de aa identicos: 68
+			Numero de aa identicos e positivos: 94
+			Numero de gaps: 10
+			Sequencia do hit:
+				VDAAWKPLP------ENLKEDLIVYQVYPRSFKDSNGDGIGDIEGIKEKLDHFLEMGVDMFWLSPIYPSPMVDFGYDISNYTDVHPIFGTISDLDNLVSA
+				AHEKGLKIILDFVPNHTSDQHEWF-QLSLKNIEPYNNYYIWH--PGKIVNGKRVPPTNWVGVFGGSAWSW
+			Sequencia do alinhamento:
+				V+  W  L       +  K   I YQ+   SF DS+GDG GD+ G+ +KLD+  ++GV   WLSPI+P  M   GYD+++YT V+P  GT SD D LV+ 
+				AH +G+KI LD+V NHT   H WF + S  +  PY NYY +   P   +   ++      G  G +A  W
+
+Numero alinhamento: 12
+	Hit accession number (relativo a base de dados usada no blast): Q99040
+	Definicao: RecName: Full=Glucan 1,6-alpha-glucosidase; AltName: Full=Dextran glucosidase; AltName: Full=Exo-1,6-alpha-glucosidase; AltName: Full=Glucodextranase [Streptococcus mutans UA159]
+	Tamanho do hit: 536 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 1.30991e-27
+			Score: 302.0
+			Tamanho do hsp: 121
+			Numero de aa identicos: 57
+			Numero de aa identicos e positivos: 78
+			Numero de gaps: 1
+			Sequencia do hit:
+				YQIYPKSFMDTNGDGIGDLKGITSKLDYLQKLGVMAIWLSPVYDSPMDDNGYDIANYEAITDIFGNMADMDNLLTQAKMRGIKIIMDLVVNHTSDEHAWF
+				IEAREHPDSSERDYYIWCDQP
+			Sequencia do alinhamento:
+				YQ+   SF D++GDG GDL G+T KLDYL +LGV A+WLSP++   M  +GYD+ +Y  +    G  +D D L+T+A  RGIKI +D V+NHT   H WF
+				 EA    +S  R+YY + + P
+
+		Numero do hsp:2
+			E-value: 0.000219167
+			Score: 113.0
+			Tamanho do hsp: 314
+			Numero de aa identicos: 76
+			Numero de aa identicos e positivos: 114
+			Numero de gaps: 67
+			Sequencia do hit:
+				YYLHFFSKKQPDLNWENAN------LRQKIYDMMNFWIDKGIGGFRMDVIDMIGKIPAQHIVSNGPKLHAYLKEMNA---ASFGQHDLLTVGETWGATPE
+				IAKQYSN-PVNHELSMVFQFEHIGLQHKPEAPKWDYVKELNVPALKTIFNKWQTELELGQGW-NSLFWNNHDLPRVLSIWGNTGKYREKSAKALAILLHL
+				MRGTPYIYQGEEIGMTNYPFKDLNELDDIESLNYAKEAFTNGKSMETIMDSIRMIGRDNARTPMQWDASQNAGFSTADKTWLPVNPNYKDINVQAALKNS
+				NSIFYTYQQLIQLR
+			Sequencia do alinhamento:
+				++ HF +    DLN+   +        Q I D    WI +G+ G R+D +  I    ++    N   L  + ++MNA         D   +GE      +
+				+A  Y   P   E S  ++ E            W           K I +  Q        +  +   +NHD  R  S     GK  +K   A A+LL  
+				  G PYIY GEE+G+  Y  KD                                 G +  R+PM W  S    ++  DKT   V+ N K +  Q A  ++
+				+S+   Y  L +LR
+
+Numero alinhamento: 13
+	Hit accession number (relativo a base de dados usada no blast): Q9P6J3
+	Definicao: RecName: Full=Alpha-glucosidase; AltName: Full=Maltase [Schizosaccharomyces pombe 972h-]
+	Tamanho do hit: 579 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 1.34464e-27
+			Score: 303.0
+			Tamanho do hsp: 128
+			Numero de aa identicos: 57
+			Numero de aa identicos e positivos: 82
+			Numero de gaps: 5
+			Sequencia do hit:
+				PNWWRETS----VYQIYPASFKDSNGDGFGDLEGIISKVDYLKALNVESIWLCPIYPSPLKDMGYDVSDYKQIDSRYGTLEDLDRLMKALHERDMKLVMD
+				LVLNHTSDQHEWFKESRSSKTNPKRDWY
+			Sequencia do alinhamento:
+				P+ W ET      YQ+   SF DS+GDG+GDL G+  K+DYL  L V+++WL PI+P  +   GYDV+DY +++ + GT  D DRL+   H R +K+ +D
+				 V+NHT   H WF E+ SS  +P R++Y
+
+		Numero do hsp:2
+			E-value: 9.50959e-07
+			Score: 133.0
+			Tamanho do hsp: 213
+			Numero de aa identicos: 53
+			Numero de aa identicos e positivos: 91
+			Numero de gaps: 32
+			Sequencia do hit:
+				GQPDLNWETPKVREAVHDILRFWLDRGVDGFRLDAINMISKDQRFLDAPITDDRYEYQLAYQYYANGPRIHEYLNGIGNILTEYDAFSVGEMPYVLDTNE
+				ILHVVGADRRELTMIFQFDF-VDLDLDPNQHKYIEGSWELSDLKKSLKKWQSALLSGGGWNASFIENHDQTRTVSRYLSDSPKYRAYSSKLMALFIIFQS
+				GTPFVFQGQELAL
+			Sequencia do alinhamento:
+				G  D   E+P   +A+ D  + W+ RGVDG RLDA+  I   +   + P     +   +   Y   G     Y+  IG +L+EYD  +    PY      
+				         + L  +F+F F   L+   N       + ++   ++    ++S  +      A+ + NHD+ RT S+    + K      KL A  ++  +
+				G P+++ G+EL L
+
+Numero alinhamento: 14
+	Hit accession number (relativo a base de dados usada no blast): Q59905
+	Definicao: RecName: Full=Glucan 1,6-alpha-glucosidase; AltName: Full=Dextran glucosidase; AltName: Full=Exo-1,6-alpha-glucosidase; AltName: Full=Glucodextranase [Streptococcus dysgalactiae subsp. equisimilis]
+	Tamanho do hit: 537 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 1.56973e-27
+			Score: 302.0
+			Tamanho do hsp: 121
+			Numero de aa identicos: 55
+			Numero de aa identicos e positivos: 78
+			Numero de gaps: 1
+			Sequencia do hit:
+				YQIYPRSFKDTSGNGIGDLKGITSQLDYLQKLGITAIWLSPVYQSPMDDNGYDISDYEAIAEVFGNMDDMDDLLAAANERGIKIIMDLVVNHTSDEHAWF
+				VEARENPNSPERDYYIWRDEP
+			Sequencia do alinhamento:
+				YQ+   SF D+ G+G GDL G+T +LDYL +LG+ A+WLSP++   M  +GYD++DY  +    G   D D L+  A+ RGIKI +D V+NHT   H WF
+				 EA  +  SP R+YY + ++P
+
+		Numero do hsp:2
+			E-value: 0.000291525
+			Score: 112.0
+			Tamanho do hsp: 373
+			Numero de aa identicos: 86
+			Numero de aa identicos e positivos: 143
+			Numero de gaps: 71
+			Sequencia do hit:
+				QKIYDMMNFWIAKGIGGFRMDVIDLIGKIPDSEITGNGPR-LHDYLKEMN---QATFGNHDVMTVGETWGATPEIARQYSRPENKELSMVFQFEH-VGLQ
+				HKPNAPKWDYAEELDVPALKTIFSKWQTELKLGEGWNSLFWNNHDLPRVLSIWGNDSIYREKSAKALAILLHLMRGTPYIYQGEEIGMTNYPFKDLTEVD
+				DIESLNYAKEAMENGVPAARVMSSIRKVGRDNARTPMQWSKDTHAGFSEAQETWLPVNPNYQEINVADALANQDSIFYTYQQLIALRKDQDWLVEADYHL
+				LPTADKVFAYQRQFGEETYVIVVNVSDQEQVFA-KDLAGAEVVITNTD-VDKVL----ETKHLQPWDAFCVKL
+			Sequencia do alinhamento:
+				Q I D    WIA+G+ G R+D +     I  SE +   PR L  + ++MN   +      D   +GE      ++A     P  K L  +F+F     L+
+				   N     Y  + D+ + +  ++ ++++        +   +NHD  R  S  G  +   +K   A A+LL    G PYIY GEE+G+  Y  KD     
+				                            G +  R+PM W       +++  +  +  N       VAD  A+  S+   Y  L  LR     L E +   
+				  T   V+   ++   +         D E++    +  G  + +  TD ++KVL    ET+     D++ +KL
+
+Numero alinhamento: 15
+	Hit accession number (relativo a base de dados usada no blast): P21332
+	Definicao: RecName: Full=Oligo-1,6-glucosidase; AltName: Full=Dextrin 6-alpha-D-glucanohydrolase; AltName: Full=Oligosaccharide alpha-1,6-glucosidase; AltName: Full=Sucrase-isomaltase; Short=Isomaltase [Bacillus cereus]
+	Tamanho do hit: 558 aa
+	Numero de hsps: 2
+		Numero do hsp:1
+			E-value: 2.37699e-27
+			Score: 301.0
+			Tamanho do hsp: 120
+			Numero de aa identicos: 53
+			Numero de aa identicos e positivos: 79
+			Numero de gaps: 1
+			Sequencia do hit:
+				KESVVYQIYPRSFMDSNGDGIGDLRGIISKLDYLKELGIDVIWLSPVYESPNDDNGYDISDYCKIMNEFGTMEDWDELLHEMHERNMKLMMDLVVNHTSD
+				EHNWFIESRKSKDNKYRDYY
+			Sequencia do alinhamento:
+				+  + YQ+   SF DS+GDG GDL G+  KLDYL +LG+  +WLSP++   +  +GYD++DY K+  + GT  D+D L+ E H R +K+ +D V+NHT  
+				 H WF E+  S ++ YR+YY
+
+		Numero do hsp:2
+			E-value: 2.83666e-09
+			Score: 153.0
+			Tamanho do hsp: 400
+			Numero de aa identicos: 94
+			Numero de aa identicos e positivos: 152
+			Numero de gaps: 98
+			Sequencia do hit:
+				QDVYEMMKFWLEKGIDGFRMDVINFISKEEGLPTVETEEEGYVSGHKHFMNGPNIHKYLHEMNEEVLSHY-------DIMTVGEMPGVTTEEAKLYTGEE
+				RKELQMVFQFEHMDLDSGEGGKWDVKPCSLLTLKENLTKWQKALEHTGWNSLY-----WNNHDQPRVVSRFGNDGMYRIESAKMLATVLHMMKGTPYIYQ
+				GEEIGMTNVRFESIDEYRDIETLNMYKEKVMERGEDIEKVMQSIYIKGRDNARTPMQWDDQNHAGFTTGEPWITVNPNYKEINVKQAIQNKDSIFYYYKK
+				LIELRKNNEIVVYGSYDLILENNPS-------IFAYVRTYGVEKLLVIANFTAEECIFELPEDISYSEVELLIHNYDVENGPIENITLR--PYEAMVFKL
+			Sequencia do alinhamento:
+				Q + +  K W+ +G+DG R+D +  I   E      T EE                ++L    E++ ++Y       D   +GE+     + A  Y G  
+				   L  +F+F           +W +   +     +++  +Q+  ++  + S Y      +NHD+ R  S+ G       +  K+ A VL    G PYIY 
+				GEE+G+   + ++ DEY                                   R+PM W D     +T      TV+ N K +  +QA  +  S+   Y  
+				L  LR     +  G+       N S       I A+  T   EKLLVI NF        L + I   E  L ++    +N   ++ TL+   Y ++VFKL
+

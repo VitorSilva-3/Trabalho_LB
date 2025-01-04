@@ -1,0 +1,451 @@
+***RESULTADOS DO BLAST PARA A PROTEINA CODIFICADA PELO GENE dnaA***
+
+Accession number (NCBI) da proteina codificada pelo gene dnaA: WP_008759760.1
+Numero de hits: 15
+Matriz usada no alinhamento: BLOSUM62
+Penalidades de espacamentos (abertura,propagacao): (11, 1)
+Base de proteinas usada: swissprot
+
+---MELHORES ALINHAMENTOS---
+
+Alinhameto 1: Proteina codifica pelo gene dnaA
+	Accession number (relativo a base de dados usado no blast): Q8A5U5
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Bacteroides thetaiotaomicron VPI-5482]
+
+Alinhamento 2
+	Accession number hit (relativo a base de dados usado no blast): Q5L9D0
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Bacteroides fragilis NCTC 9343] >sp|Q64PL4.1| RecName: Full=Chromosomal replication initiator protein DnaA [Bacteroides fragilis YCH46]
+	Tamanho do hit: 476 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 0.0
+			Score: 2155.0
+			Tamanho hsp: 471 aa
+			Numero de aa identicos: 402
+			Numero de aa identicos e positivos: 432
+			Numero de gaps: 4
+
+Alinhamento 3
+	Accession number hit (relativo a base de dados usado no blast): A6GYW8
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Flavobacterium psychrophilum JIP02/86]
+	Tamanho do hit: 478 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.07023e-159
+			Score: 1192.0
+			Tamanho hsp: 467 aa
+			Numero de aa identicos: 228
+			Numero de aa identicos e positivos: 322
+			Numero de gaps: 10
+
+Alinhamento 4
+	Accession number hit (relativo a base de dados usado no blast): B2RGM5
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Porphyromonas gingivalis ATCC 33277] >sp|Q7MXZ1.1| RecName: Full=Chromosomal replication initiator protein DnaA [Porphyromonas gingivalis W83]
+	Tamanho do hit: 473 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.57357e-142
+			Score: 1078.0
+			Tamanho hsp: 462 aa
+			Numero de aa identicos: 204
+			Numero de aa identicos e positivos: 296
+			Numero de gaps: 5
+
+Alinhamento 5
+	Accession number hit (relativo a base de dados usado no blast): Q8KGG6
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Chlorobaculum tepidum TLS]
+	Tamanho do hit: 493 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 2.8006e-121
+			Score: 939.0
+			Tamanho hsp: 460 aa
+			Numero de aa identicos: 176
+			Numero de aa identicos e positivos: 288
+			Numero de gaps: 8
+
+Alinhamento 6
+	Accession number hit (relativo a base de dados usado no blast): B7GFK8
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Anoxybacillus flavithermus WK1]
+	Tamanho do hit: 447 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 8.89137e-104
+			Score: 818.0
+			Tamanho hsp: 460 aa
+			Numero de aa identicos: 166
+			Numero de aa identicos e positivos: 267
+			Numero de gaps: 20
+
+
+---ALINHAMENTOS---
+
+Numero alinhamento: 1
+	Proteina codificada pelo gene accession number (relativo a base de dados usado no blast): Q8A5U5
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Bacteroides thetaiotaomicron VPI-5482]
+	Tamanho da proteina: 470 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 0.0
+			Score: 2513.0
+			Tamanho do hsp: 470
+			Numero de aa identicos: 470
+			Numero de aa identicos e positivos: 470
+			Numero de gaps: 0
+			Sequencia da proteina:
+				MIESNHVVLWNRCLEVIKDNVPETTYNTWFAPIVPLKYEDKTLIVQIPSQFFYEILEEKFVDLLRKTLYKAIGEGTKLMYNVMVDKTSIPNQTVNLEASN
+				RSTAVTPKSIVGGNKAPSFLKAPAVQDLDPHLNPNYNFENFIEGYSNKLSRSVAEAVAQNPAGTAFNPLFLYGASGVGKTHLANAIGTKIKELYADKRVL
+				YVSAHLFQVQYTDSVRNNTTNDFINFYQTIDVLIIDDIQEFAGVTKTQNTFFHIFNHLHQNGKQLILTSDRAPVLLQGMEERLLTRFKWGMVAELEKPTV
+				ELRKNILRNKIHRDGLQFPPEVIDYIAENVNESVRDLEGIVIAIMARSTIFNKEIDLDLAQHIVHGVVHNETKAVTIDDILKVVCKHFDLEASAIHTKSR
+				KREVVQARQIAMYLAKNYTDFSTSKIGKFIGNKDHATVLHACKTVKGQLEVDKSFQAEVQEIESLLKKKA
+
+Numero alinhamento: 2
+	Hit accession number (relativo a base de dados usada no blast): Q5L9D0
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Bacteroides fragilis NCTC 9343] >sp|Q64PL4.1| RecName: Full=Chromosomal replication initiator protein DnaA [Bacteroides fragilis YCH46]
+	Tamanho do hit: 476 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 0.0
+			Score: 2155.0
+			Tamanho do hsp: 471
+			Numero de aa identicos: 402
+			Numero de aa identicos e positivos: 432
+			Numero de gaps: 4
+			Sequencia do hit:
+				MSESSHVGLWNRCLEIIRDNVPESTYKTWFVPIVPLKYEDKTLIVQVPSQFFYEFLEDKFVDLLRKTLYKVIGDGTKLMYNVLVDKSS--GATVNQESTT
+				RSTAIPQSGLPRVDERKAPGLLRAPAVQDLDPHLNPNYNFETFIEGYSNKLSRSVAEAVAENPAKTVFNPLFLHGASGVGKTHLANAIGTRIKELYPDKR
+				VLYVSAHLFQVQYTDSVRNNTTNDFINFYQTIDVLIIDDIQEFAGVTKTQNTFFHIFNHLHQNGKQLILTSDRAPVLLQGMEERLLTRFKWGMVAELEKP
+				TVELRKNILRNKIHRDGLQFPSEVIDYIAENVNESVRDLEGIVISIMAHSTIYNKEIDLDLAQRIVRKVVRCETKAVTIDDIINVVCKHFDLESSAIHTK
+				SRKREVVQARQVAMYLAKTHTDFSTSKIGKFIGNKDHATVLHACKTVKGQCEVDKGFRSDLENIETLLKKR
+			Sequencia do alinhamento:
+				M ES+HV LWNRCLE+I+DNVPE+TY TWF PIVPLKYEDKTLIVQ+PSQFFYE LE+KFVDLLRKTLYK IG+GTKLMYNV+VDK+S    TVN E++ 
+				RSTA+    +  V   KAP  L+APAVQDLDPHLNPNYNFE FIEGYSNKLSRSVAEAVA+NPA T FNPLFL+GASGVGKTHLANAIGT+IKELY DKR
+				VLYVSAHLFQVQYTDSVRNNTTNDFINFYQTIDVLIIDDIQEFAGVTKTQNTFFHIFNHLHQNGKQLILTSDRAPVLLQGMEERLLTRFKWGMVAELEKP
+				TVELRKNILRNKIHRDGLQFP EVIDYIAENVNESVRDLEGIVI+IMA STI+NKEIDLDLAQ IV  VV  ETKAVTIDDI+ VVCKHFDLE+SAIHTK
+				SRKREVVQARQ+AMYLAK +TDFSTSKIGKFIGNKDHATVLHACKTVKGQ EVDK F+++++ IE+LLKK+
+
+Numero alinhamento: 3
+	Hit accession number (relativo a base de dados usada no blast): A6GYW8
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Flavobacterium psychrophilum JIP02/86]
+	Tamanho do hit: 478 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.07023e-159
+			Score: 1192.0
+			Tamanho do hsp: 467
+			Numero de aa identicos: 228
+			Numero de aa identicos e positivos: 322
+			Numero de gaps: 10
+			Sequencia do hit:
+				VWDNCLSFIKDNIQEQAYKTWFEPIKSVELTDNALYIQVPSKFFYEWLEEHYVKLLKVALTKELGKNAKLLYKIKMENTYGNKLPF-TEQLPSAHRSPVR
+				TQEIDVPVQQKNPELRNPFIIPGIRNLKIESQLNANYSFDNFLEGDSNRLARSAGMAVANKPGGTSFNPLLIFGGVGLGKTHLAHAIGVEVKEKYPEKTV
+				LYISAEIFTQQYIESVKKNNRNDFIHFYQLIDVLIIDDVQFLSGKTGTQDVFFHIFNYLHQNGKQVILTSDKAPVDMQDIEQRLLSRFKWGLSAEIHQPD
+				YETRISILKNILYRDGVEMPEEIIEYVARNIKSNVRELEGAIISLIAQSSFNKKEVTLELAKQVVEKFVKNVKREVSIDYIQKVVSDYFQLDLEVLQSKT
+				RKRHVVQARQLAMFFAKRYTKASLANIGSQIGDRDHATVLHACKTVDNLVTTDKQFKKFVDDINKKL
+			Sequencia do alinhamento:
+				+W+ CL  IKDN+ E  Y TWF PI  ++  D  L +Q+PS+FFYE LEE +V LL+  L K +G+  KL+Y + ++ T    +P  T  L +++RS   
+				T +  +    K P        P +++L  +  LN NY+F+NF+EG SN+L+RS   AVA  P GT+FNPL ++G  G+GKTHLA+AIG ++KE Y +K V
+				LY+SA +F  QY +SV+ N  NDFI+FYQ IDVLIIDD+Q  +G T TQ+ FFHIFN+LHQNGKQ+ILTSD+APV +Q +E+RLL+RFKWG+ AE+ +P 
+				 E R +IL+N ++RDG++ P E+I+Y+A N+  +VR+LEG +I+++A+S+   KE+ L+LA+ +V   V N  + V+ID I KVV  +F L+   + +K+
+				RKR VVQARQ+AM+ AK YT  S + IG  IG++DHATVLHACKTV   +  DK F+  V +I   L
+
+Numero alinhamento: 4
+	Hit accession number (relativo a base de dados usada no blast): B2RGM5
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Porphyromonas gingivalis ATCC 33277] >sp|Q7MXZ1.1| RecName: Full=Chromosomal replication initiator protein DnaA [Porphyromonas gingivalis W83]
+	Tamanho do hit: 473 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.57357e-142
+			Score: 1078.0
+			Tamanho do hsp: 462
+			Numero de aa identicos: 204
+			Numero de aa identicos e positivos: 296
+			Numero de gaps: 5
+			Sequencia do hit:
+				IWDACLRILQDIVDERAYRTWFLPIIPVSIEGDTLTLQVPSQFFCEFLEGNFVEQLRTVLGRVIGPNASLQYNALVDNSSPKYPG-TVTLAGCADGGQAA
+				EQFDVNLLHRHMPNAATHSEAQDFDTQLNSRLNFRNFYQSECNYVARSVAEAIAASPGNTPMNPFFIYGASGVGKTHLCHALGLRVREMHPRLKVLYVSS
+				HLFEMQFTTAARMGTINDFIAFYQQVDVLIIDDIQWLIGKKKTQLAFFQVFNHLYMLGKQIVLTSDKPPVDLNGMEERLVTRMAGATCVKIERPDLKLRR
+				EILQQRTLQSGVRLDESVLNFIAENVCDNVRELEGTLVSLITNSVVVGKEIDLTFAKRIVRQAVRLEKKEVTIECIQQAVSRVFQVQIEQMKSKSRKQDI
+				VQARQVVMFLSKKHTAQSLSAIGELMGGRNHATVLHGCRCVTNEMEMNASFRSSVERAEQLI
+			Sequencia do alinhamento:
+				+W+ CL +++D V E  Y TWF PI+P+  E  TL +Q+PSQFF E LE  FV+ LR  L + IG    L YN +VD +S   P  TV L          
+				 +  V       P+       QD D  LN   NF NF +   N ++RSVAEA+A +P  T  NP F+YGASGVGKTHL +A+G +++E++   +VLYVS+
+				HLF++Q+T + R  T NDFI FYQ +DVLIIDDIQ   G  KTQ  FF +FNHL+  GKQ++LTSD+ PV L GMEERL+TR       ++E+P ++LR+
+				 IL+ +  + G++    V+++IAENV ++VR+LEG +++++  S +  KEIDL  A+ IV   V  E K VTI+ I + V + F ++   + +KSRK+++
+				VQARQ+ M+L+K +T  S S IG+ +G ++HATVLH C+ V  ++E++ SF++ V+  E L+
+
+Numero alinhamento: 5
+	Hit accession number (relativo a base de dados usada no blast): Q8KGG6
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Chlorobaculum tepidum TLS]
+	Tamanho do hit: 493 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.8006e-121
+			Score: 939.0
+			Tamanho do hsp: 460
+			Numero de aa identicos: 176
+			Numero de aa identicos e positivos: 288
+			Numero de gaps: 8
+			Sequencia do hit:
+				VWSACLGLIQENINTLAFKTWFLPIRPLSFSGSELTIEVPSQFFYEWIEENYSVHVKQALRQVIGPEAKLMYSIVIDKSQGQPVTIELPHQIDAAPAERS
+				VRPEA--PGQKASAERERLEIARPRFESNLNPKYTFSTLVRGDCNSLAFAASKSIAQNPGQNAFNPLVIYGGVGLGKTHMMQAIGNSVLENRITDAVLYV
+				SSEKFAIDFVNAIQNGNIQEFSAFYRNIDVLIIDDIQFFAGKEKTQEEIFHIFNTLHQSNKQIILSADRPIKEIKGIEDRLISRFNWGLSTDIQAPDYET
+				RKAIIQSKLKQSGVSLDPVVIEFIATNVTSNVRELEGCIVKLLAAHSLDNQEIDLQFAKSTLKDIIRYNTKQLTLETIEKAVCSYFSITSNDLKGKSKKK
+				EIAVGRQIAMYLSKDMTDSSLKTIGLHFGGRDHSTVIHALNTIEKKIAASNEERKKIEEL
+			Sequencia do alinhamento:
+				+W+ CL +I++N+    + TWF PI PL +    L +++PSQFFYE +EE +   +++ L + IG   KLMY++++DK+     T+ L    +A+    +
+				V P++   G KA +  +    A    + +LNP Y F   + G  N L+ + ++++AQNP   AFNPL +YG  G+GKTH+  AIG  + E      VLYV
+				S+  F + + ++++N    +F  FY+ IDVLIIDDIQ FAG  KTQ   FHIFN LHQ+ KQ+IL++DR    ++G+E+RL++RF WG+  +++ P  E 
+				RK I+++K+ + G+   P VI++IA NV  +VR+LEG ++ ++A  ++ N+EIDL  A+  +  ++   TK +T++ I K VC +F + ++ +  KS+K+
+				E+   RQIAMYL+K+ TD S   IG   G +DH+TV+HA  T++ ++      + +++E+
+
+Numero alinhamento: 6
+	Hit accession number (relativo a base de dados usada no blast): B7GFK8
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Anoxybacillus flavithermus WK1]
+	Tamanho do hit: 447 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 8.89137e-104
+			Score: 818.0
+			Tamanho do hsp: 460
+			Numero de aa identicos: 166
+			Numero de aa identicos e positivos: 267
+			Numero de gaps: 20
+			Sequencia do hit:
+				LWNKALAEIEKKISKPSFETWLKSTTAHSLKGDILIITVPNEFTKDWLESRYTRLIEQTLYDITGEELKI-------KCTIPNHQTTEEFDLKPTSKPRK
+				HDDEQTEFPQSM-----------LNPKYTFDTFVIGSGNRFAHAASLAVAEAPA-KAYNPLFIYGGVGLGKTHLMHAIGHYVLEHNPSAKVVYLSSEKFT
+				NEFINAIRDNRPDDFRNKYRNVDVLLIDDIQFLAGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGLITDITPPDLETRIAILR
+				KKAKAEGFDIPNEVMLYIANQIDSNIRELEGALIRVVAYSSLINKEINADLAAEALKDIIPSSKPKVITIQDIQRVVGEHFNVKLEDFKAKKRTKSVAFP
+				RQIAMYLSRELTDCSLPKIGEEFGGRDHTTVIHAHEKISALIQTDVQLQKQLKEIMEKLK
+			Sequencia do alinhamento:
+				LWN+ L  I+  + + ++ TW         +   LI+ +P++F  + LE ++  L+ +TLY   GE  K+       K +IPN     E   + T+   K
+				      + P  +           LNP Y F+ F+ G  N+ + + + AVA+ PA  A+NPLF+YG  G+GKTHL +AIG  + E     +V+Y+S+  F 
+				 ++ +++R+N  +DF N Y+ +DVL+IDDIQ  AG  +TQ  FFH FN LH+  KQ++++SDR P  +  +E+RL +RF+WG++ ++  P +E R  ILR
+				 K   +G   P EV+ YIA  ++ ++R+LEG +I ++A S++ NKEI+ DLA   +  ++  ++ K +TI DI +VV +HF+++      K R + V   
+				RQIAMYL++  TD S  KIG+  G +DH TV+HA + +   ++ D   Q +++EI   LK
+
+Numero alinhamento: 7
+	Hit accession number (relativo a base de dados usada no blast): Q8RDL6
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Caldanaerobacter subterraneus subsp. tengcongensis MB4]
+	Tamanho do hit: 443 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.65441e-102
+			Score: 808.0
+			Tamanho do hsp: 459
+			Numero de aa identicos: 164
+			Numero de aa identicos e positivos: 271
+			Numero de gaps: 25
+			Sequencia do hit:
+				IWERIVEVIKSELTPTSYNTWLVHIKPLAFAEDTLFLSTPNTFTKNIINGRYINII----YDAASKVTNRFIEIKI-----------LSEDEEEYREIKE
+				SIERENSSESTLLST--------LNPKYTFDTFVVGNSNKLAHAACLAVAQSPAK-AYNPLFIYGGVGLGKTHLMHAIGHFINKNHAGYKIMYVTSETFT
+				NELVNSIKDDKNEEFRNKYRNIDVLLIDDIQFIANKERTQEEFFHTFNTLYEANKQIVISSDRPPKEIPTLEERLRSRFEWGLIADIQPPDYETRVAILK
+				KKAQSENLNIPDEVLAYVAEKIQSNIRELEGALIRIVAFATLTKSNIDLELTKHALKDIVSNKTREITVKLIQEEVCKYYNIKLEDFRSRKRTKNIAYPR
+				QIAMYLARELTDLSLPKIGEEFG-KDHTTVIHAYEKISNEIKQDESLARQIEELKKRIK
+			Sequencia do alinhamento:
+				+W R +EVIK  +  T+YNTW   I PL + + TL +  P+ F   I+  ++++++    Y A  + T     + +           L           +
+				SI   N + S L +         LNP Y F+ F+ G SNKL+ +   AVAQ+PA  A+NPLF+YG  G+GKTHL +AIG  I + +A  +++YV++  F 
+				 +  +S++++   +F N Y+ IDVL+IDDIQ  A   +TQ  FFH FN L++  KQ++++SDR P  +  +EERL +RF+WG++A+++ P  E R  IL+
+				 K   + L  P EV+ Y+AE +  ++R+LEG +I I+A +T+    IDL+L +H +  +V N+T+ +T+  I + VCK+++++     ++ R + +   R
+				QIAMYLA+  TD S  KIG+  G KDH TV+HA + +  +++ D+S   +++E++  +K
+
+Numero alinhamento: 8
+	Hit accession number (relativo a base de dados usada no blast): C5D327
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Geobacillus sp. WCH70]
+	Tamanho do hit: 450 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 7.1375e-102
+			Score: 806.0
+			Tamanho do hsp: 461
+			Numero de aa identicos: 165
+			Numero de aa identicos e positivos: 264
+			Numero de gaps: 19
+			Sequencia do hit:
+				LWNRVLGEIEKKISKPSFETWLKSTKAHSLRGDTLVIIAPNEFARDWLDSRYSRLIAETIYDITGE------ELLIKFITPPNQSEDDFEFQRSSKKHRK
+				PYEESTDFPQSM-----------LNPKYTFDTFVIGSGNRFAHAASLAVAEAPA-KAYNPLFIYGGVGLGKTHLMHAIGHYVIEHNPSAKVVYLSSEKFT
+				NEFINAIRDNRPDDFRNKYRNVDVLLIDDIQFLAGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGLITDITPPDLETRIAILR
+				KKAKAEGFDIPNEVMLYIANQIDSNIRELEGALIRVVAYSSLINKEITADLAAEALKDIIPSTKPKVITIQDIQRVVGQHFNIKLEDFKAKKRTKSVAFP
+				RQIAMYLSRELTDCSLPKIGDEFGGRDHTTVIHAHEKISKLLQTDAQLQKHIKEIEEKLKQ
+			Sequencia do alinhamento:
+				LWNR L  I+  + + ++ TW            TL++  P++F  + L+ ++  L+ +T+Y   GE       +++   + PNQ+ +     RS+    K
+				        P  +           LNP Y F+ F+ G  N+ + + + AVA+ PA  A+NPLF+YG  G+GKTHL +AIG  + E     +V+Y+S+  F 
+				 ++ +++R+N  +DF N Y+ +DVL+IDDIQ  AG  +TQ  FFH FN LH+  KQ++++SDR P  +  +E+RL +RF+WG++ ++  P +E R  ILR
+				 K   +G   P EV+ YIA  ++ ++R+LEG +I ++A S++ NKEI  DLA   +  ++   + K +TI DI +VV +HF+++      K R + V   
+				RQIAMYL++  TD S  KIG   G +DH TV+HA + +   L+ D   Q  ++EIE  LK+
+
+Numero alinhamento: 9
+	Hit accession number (relativo a base de dados usada no blast): B0K0W8
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Thermoanaerobacter sp. X514] >sp|B0KAG0.1| RecName: Full=Chromosomal replication initiator protein DnaA [Thermoanaerobacter pseudethanolicus ATCC 33223]
+	Tamanho do hit: 443 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.90066e-101
+			Score: 798.0
+			Tamanho do hsp: 467
+			Numero de aa identicos: 163
+			Numero de aa identicos e positivos: 271
+			Numero de gaps: 31
+			Sequencia do hit:
+				GDHRQIWERIVEVIKSELTPTSYNTWLVHIKPLAIIDDVLFLSTPNTFTKNIINGRYINII----YDAASKATNKLYEIKILSEDEEEYREIKESIEKEN
+				LTESTTLST----------------------LNPKYTFDTFVVGNSNKLAHAACLAVAQAPAK-AYNPLFIYGGVGLGKTHLMHAIGHFINKHQSGYKIM
+				YVTSETFTNELVNSIKDDKNEEFRNKYRNIDVLLIDDIQFIAKKERTQEEFFHTFNTLYEANKQIVISSDRPPKEIPTLEERLRSRFEWGLIADIQPPDY
+				ETRIAILKKKAQTENLNIPDEVLAYVAEKIQSNIRELEGALIRIVAFSNLTKANIDLELAKHALKEIVSNKTREITVKLIQEEVCKYYNIKLEDFRSRKR
+				TKNIAYPRQIAMYLARELTDLSLPKIGEEFG-KDHTTVIHAYEKISNEIKQDELLSRQIEELKKRIK
+			Sequencia do alinhamento:
+				 +H  +W R +EVIK  +  T+YNTW   I PL   D  L +  P+ F   I+  ++++++    Y A  + T  +Y + +   D+        ++E  N
+				 + + T  +                      LNP Y F+ F+ G SNKL+ +   AVAQ PA  A+NPLF+YG  G+GKTHL +AIG  I +  +  +++
+				YV++  F  +  +S++++   +F N Y+ IDVL+IDDIQ  A   +TQ  FFH FN L++  KQ++++SDR P  +  +EERL +RF+WG++A+++ P  
+				E R  IL+ K   + L  P EV+ Y+AE +  ++R+LEG +I I+A S +    IDL+LA+H +  +V N+T+ +T+  I + VCK+++++     ++ R
+				 + +   RQIAMYLA+  TD S  KIG+  G KDH TV+HA + +  +++ D+    +++E++  +K
+
+Numero alinhamento: 10
+	Hit accession number (relativo a base de dados usada no blast): Q5L3Z2
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Geobacillus kaustophilus HTA426]
+	Tamanho do hit: 450 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 3.1427e-100
+			Score: 795.0
+			Tamanho do hsp: 461
+			Numero de aa identicos: 164
+			Numero de aa identicos e positivos: 261
+			Numero de gaps: 19
+			Sequencia do hit:
+				LWDRVLAEIEQKISKPSFETWLKSTKAHSLRGDTLVIVAPNEFARDWLDSRYSHLIAETIYTITGEELAVKFIIP------PNQDDEELEFQSSKKKQRK
+				PYEETNDFPQSM-----------LNPKYTFDTFVIGSGNRFAHAASLAVAEAPA-KAYNPLFIYGGVGLGKTHLMHAIGHYVIEHNPSAKVVYLSSEKFT
+				NEFINAIRDNRPDDFRNKYRNVDVLLIDDIQFLAGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGLITDITPPDLETRIAILR
+				KKAKAEGFDIPNEVMLYIANQIDSNIRELEGALIRVVAYSSLINKEITADLAAEALKDIIPSAKPKVITIQDIQRVVGQHFNIKMEDFKAKKRTKSVAFP
+				RQIAMYLSRELTDCSLPKIGDEFGGRDHTTVIHAHEKISKLLQTDTQLQRHIQEIQEKLKQ
+			Sequencia do alinhamento:
+				LW+R L  I+  + + ++ TW            TL++  P++F  + L+ ++  L+ +T+Y   GE   + + +       PNQ         S     K
+				     N  P  +           LNP Y F+ F+ G  N+ + + + AVA+ PA  A+NPLF+YG  G+GKTHL +AIG  + E     +V+Y+S+  F 
+				 ++ +++R+N  +DF N Y+ +DVL+IDDIQ  AG  +TQ  FFH FN LH+  KQ++++SDR P  +  +E+RL +RF+WG++ ++  P +E R  ILR
+				 K   +G   P EV+ YIA  ++ ++R+LEG +I ++A S++ NKEI  DLA   +  ++ + + K +TI DI +VV +HF+++      K R + V   
+				RQIAMYL++  TD S  KIG   G +DH TV+HA + +   L+ D   Q  +QEI+  LK+
+
+Numero alinhamento: 11
+	Hit accession number (relativo a base de dados usada no blast): A0Q3U6
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Clostridium novyi NT]
+	Tamanho do hit: 448 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.50048e-100
+			Score: 792.0
+			Tamanho do hsp: 458
+			Numero de aa identicos: 166
+			Numero de aa identicos e positivos: 270
+			Numero de gaps: 28
+			Sequencia do hit:
+				LWTKTLNIIKGELTEVSFNTWIKSISPISMNENTIKLEVPNDFTRGILESRYKDLI----INAIKLITSKKYNIEFSITSEEIFNNQQLKPKSSNDNIVV
+				N-------------------DEMTSILNPKYTFDSFVIGNSNRFAHAASLAVAESPA-KAYNPLFIYGGVGLGKTHLMHAIGHYILQNTPNAKVVYVSSE
+				KFTNELINSIKDDKNEEFRNKYRNVDVLLIDDIQFIAGKERTQEEFFHTFNALYEADKQIILSSDRPPKEIPTLEDRLRSRFEWGLIADIQAPDFETRIA
+				ILKKKADVENLDIPNEVMVYIATKIKSNIRELEGALIRIVAYSSLTNREISVDLAAEALKDIISSEQNKQITIELIQDIVCNYFNLKIQELKSSRRTRNI
+				AFPRQIAMYLSRKLTDMSLPKIGEEFGGRDHTTVIHAYEKISNILKKDESLRNVIDDL
+			Sequencia do alinhamento:
+				LW + L +IK  + E ++NTW   I P+   + T+ +++P+ F   ILE ++ DL+      AI   T   YN+    TS     NQ +  ++SN +  V
+				                     ++   LNP Y F++F+ G SN+ + + + AVA++PA  A+NPLF+YG  G+GKTHL +AIG  I +   + +V+YVS+ 
+				 F  +  +S++++   +F N Y+ +DVL+IDDIQ  AG  +TQ  FFH FN L++  KQ+IL+SDR P  +  +E+RL +RF+WG++A+++ P  E R  
+				IL+ K   + L  P EV+ YIA  +  ++R+LEG +I I+A S++ N+EI +DLA   +  ++ +E  K +TI+ I  +VC +F+L+   + +  R R +
+				   RQIAMYL++  TD S  KIG+  G +DH TV+HA + +   L+ D+S +  + ++
+
+Numero alinhamento: 12
+	Hit accession number (relativo a base de dados usada no blast): A6LPB1
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Clostridium beijerinckii NCIMB 8052]
+	Tamanho do hit: 449 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.67459e-99
+			Score: 790.0
+			Tamanho do hsp: 455
+			Numero de aa identicos: 163
+			Numero de aa identicos e positivos: 266
+			Numero de gaps: 21
+			Sequencia do hit:
+				LWDKTLDIIKSELSEVSFNTWIKSCEPLSISSNTLKISVPNSFTQDILDKRYKDLVANSIKAVCSKLYTIEFIIM-------SEIYEKEEIKSSSNQKSK
+				AIVVNDEMSS------------TLNPKYTFNSFVIGNSNRFAHAASLAVAESPA-KAYNPLFIYGGVGLGKTHLMHAIGHYILDGNPNAKVVYVSSEKFT
+				NELINAIKDDKNEEFRNKYRNVDILLIDDIQFIAGKERTQEEFFHTFNALHDANKQIILSSDRPPKEIPTLEDRLRSRFEWGLIADIQVPDFETRMAILK
+				KKADVENLNVANEVMGYIATKIKSNIRELEGALIRIIAYSSLTNREVTVDLATEALKDIISKKQGKHVTIDLIQDVVSSYFNLRVEDLKSQRRTRNVAYP
+				RQIAMYLSRKLTDMSLPKIGEEFGGRDHTTVIHAYEKISENLKTDDSLQSTVNDI
+			Sequencia do alinhamento:
+				LW++ L++IK  + E ++NTW     PL     TL + +P+ F  +IL++++ DL+  ++     +   + + +M       ++    E    S+    K
+				+IV  ++  S             LNP Y F +F+ G SN+ + + + AVA++PA  A+NPLF+YG  G+GKTHL +AIG  I +   + +V+YVS+  F 
+				 +  ++++++   +F N Y+ +D+L+IDDIQ  AG  +TQ  FFH FN LH   KQ+IL+SDR P  +  +E+RL +RF+WG++A+++ P  E R  IL+
+				 K   + L    EV+ YIA  +  ++R+LEG +I I+A S++ N+E+ +DLA   +  ++   + K VTID I  VV  +F+L    + ++ R R V   
+				RQIAMYL++  TD S  KIG+  G +DH TV+HA + +   L+ D S Q+ V +I
+
+Numero alinhamento: 13
+	Hit accession number (relativo a base de dados usada no blast): A4IJ84
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Geobacillus thermodenitrificans NG80-2]
+	Tamanho do hit: 450 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.28368e-99
+			Score: 789.0
+			Tamanho do hsp: 461
+			Numero de aa identicos: 163
+			Numero de aa identicos e positivos: 261
+			Numero de gaps: 19
+			Sequencia do hit:
+				LWDRVLGEIERKISKPSFETWLKSTKAHSLRGDTLVIVAPNEFARDWLDSRYSHLIAETIYAITGEELAVKFIIP------PNQADEKLELPSSAKKQRK
+				PYEEANDFPQSM-----------LNPKYTFDTFVIGSGNRFAHAASLAVAEAPA-KAYNPLFIYGGVGLGKTHLMHAIGHYVIEHNPSAKVVYLSSEKFT
+				NEFINAIRDNRPDDFRNKYRNVDVLLIDDIQFLAGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGLITDITPPDLETRIAILR
+				KKAKAEGFDIPNEVMLYIANQIDSNIRELEGALIRVVAYSSLINKEITADLAAEALKDIIPSAKPKVITIQDIQRVVGQHFNIKLEDFKAKKRTKSVAFP
+				RQIAMYLSRELTDCSLPKIGDEFGGRDHTTVIHAHEKISKLLQTDTQLQKHLKEIQEKLKQ
+			Sequencia do alinhamento:
+				LW+R L  I+  + + ++ TW            TL++  P++F  + L+ ++  L+ +T+Y   GE   + + +       PNQ         S     K
+				     N  P  +           LNP Y F+ F+ G  N+ + + + AVA+ PA  A+NPLF+YG  G+GKTHL +AIG  + E     +V+Y+S+  F 
+				 ++ +++R+N  +DF N Y+ +DVL+IDDIQ  AG  +TQ  FFH FN LH+  KQ++++SDR P  +  +E+RL +RF+WG++ ++  P +E R  ILR
+				 K   +G   P EV+ YIA  ++ ++R+LEG +I ++A S++ NKEI  DLA   +  ++ + + K +TI DI +VV +HF+++      K R + V   
+				RQIAMYL++  TD S  KIG   G +DH TV+HA + +   L+ D   Q  ++EI+  LK+
+
+Numero alinhamento: 14
+	Hit accession number (relativo a base de dados usada no blast): A8F8Y4
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Bacillus pumilus SAFR-032]
+	Tamanho do hit: 446 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 3.50914e-99
+			Score: 787.0
+			Tamanho do hsp: 460
+			Numero de aa identicos: 164
+			Numero de aa identicos e positivos: 267
+			Numero de gaps: 21
+			Sequencia do hit:
+				LWNKALQKIETKLSKPSFETWMKSTKAHSLQGDTLTITAPNEFARDWLESRYLHLIADTIYELTGEELSI-------KFIIPQNQDEVEA-------MPK
+				SPIKKMSKEDPVDIP--QNM---LNPKYTFDTFVIGSGNRFAHAASLAVAEAPA-KAYNPLFIYGGVGLGKTHLMHAIGHYVIDHNPSAKVVYLSSEKFT
+				NEFINSIRDNKAVDFRNRYRNVDVLLIDDIQFLAGKEQTQEEFFHTFNTLHEESKQIVISSDRPPKEIPTLEDRLRSRFEWGLITDITPPDLETRIAILR
+				KKAKAEGLDIPNEVMLYIANQIDSNIRELEGALIRVVAYSSLINKDINADLAAEALKDIIPSSKPRVITIKDIQRIVGQQFNIRLEDFKAKKRTKSVAYP
+				RQIAMYLSREMTDSSLPKIGEEFGGRDHTTVIHAHEKISKLMVEDEQLQQHVKEIKEQLK
+			Sequencia do alinhamento:
+				LWN+ L+ I+  + + ++ TW         +  TL +  P++F  + LE +++ L+  T+Y+  GE   +       K  IP     +EA        PK
+				S +        +  P  Q++   LNP Y F+ F+ G  N+ + + + AVA+ PA  A+NPLF+YG  G+GKTHL +AIG  + +     +V+Y+S+  F 
+				 ++ +S+R+N   DF N Y+ +DVL+IDDIQ  AG  +TQ  FFH FN LH+  KQ++++SDR P  +  +E+RL +RF+WG++ ++  P +E R  ILR
+				 K   +GL  P EV+ YIA  ++ ++R+LEG +I ++A S++ NK+I+ DLA   +  ++  ++ + +TI DI ++V + F++       K R + V   
+				RQIAMYL++  TD S  KIG+  G +DH TV+HA + +   +  D+  Q  V+EI+  LK
+
+Numero alinhamento: 15
+	Hit accession number (relativo a base de dados usada no blast): A5N457
+	Definicao: RecName: Full=Chromosomal replication initiator protein DnaA [Clostridium kluyveri DSM 555] >sp|B9DXS7.1| RecName: Full=Chromosomal replication initiator protein DnaA [Clostridium kluyveri NBRC 12016]
+	Tamanho do hit: 451 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 5.94466e-99
+			Score: 786.0
+			Tamanho do hsp: 463
+			Numero de aa identicos: 168
+			Numero de aa identicos e positivos: 270
+			Numero de gaps: 21
+			Sequencia do hit:
+				IWEQCLNIIKGETTEVSFNTWIKSITPISIENDTFMLTVPNDLTKGILSNKYTDLIIRSLQMV----TSQKYNVKFLISSELPEEFLTLDTINEQN--IK
+				GSIIVSD------------EMSAMLNPKYTFTSFVIGNSNRFAHAASLAVAESPA-KAYNPLFIYGGVGLGKTHLMHAIGHHILHNNTSCKVVYVSSEKF
+				TNELINSIKDDKNVEFRSKYRNIDVLLIDDIQFIAGKERTQEEFFHTFNALYEANKQIILSSDRPPKEIPTLEDRLRSRFEWGLIADIQPPDFETRMAIL
+				KKKADVEKLNIPNEVMAYIATKIKSNIRELEGALIRIVAFSSLTNKEISVDLAIEALKDIISSGQSKQVTIELIQDVVSNYYNLKVSDFKSSRRTRNVAF
+				PRQIAMYLCRKLTDMSLPKIGEEFGGRDHTTVIHAYEKISNNLKKDESLKNAVNDLTKRLDQQ
+			Sequencia do alinhamento:
+				+W +CL +IK    E ++NTW   I P+  E+ T ++ +P+     IL  K+ DL+ ++L       T   YNV  +  + +P + + L+  N       
+				 SI+  +            ++   LNP Y F +F+ G SN+ + + + AVA++PA  A+NPLF+YG  G+GKTHL +AIG  I       +V+YVS+  F
+				  +  +S++++   +F + Y+ IDVL+IDDIQ  AG  +TQ  FFH FN L++  KQ+IL+SDR P  +  +E+RL +RF+WG++A+++ P  E R  IL
+				+ K   + L  P EV+ YIA  +  ++R+LEG +I I+A S++ NKEI +DLA   +  ++ + ++K VTI+ I  VV  +++L+ S   +  R R V  
+				 RQIAMYL +  TD S  KIG+  G +DH TV+HA + +   L+ D+S +  V ++   L ++
+

@@ -1,0 +1,422 @@
+***RESULTADOS DO BLAST PARA A PROTEINA CODIFICADA PELO GENE dinB***
+
+Accession number (NCBI) da proteina codificada pelo gene dinB: WP_008760075.1
+Numero de hits: 15
+Matriz usada no alinhamento: BLOSUM62
+Penalidades de espacamentos (abertura,propagacao): (11, 1)
+Base de proteinas usada: swissprot
+
+---MELHORES ALINHAMENTOS---
+
+Alinhameto 1: Proteina codifica pelo gene dinB
+	Accession number (relativo a base de dados usado no blast): Q64X95
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Bacteroides fragilis YCH46]
+
+Alinhamento 2
+	Accession number hit (relativo a base de dados usado no blast): B2UKN1
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Akkermansia muciniphila ATCC BAA-835]
+	Tamanho do hit: 359 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 2.70128e-159
+			Score: 1166.0
+			Tamanho hsp: 359 aa
+			Numero de aa identicos: 225
+			Numero de aa identicos e positivos: 269
+			Numero de gaps: 2
+
+Alinhamento 3
+	Accession number hit (relativo a base de dados usado no blast): Q92XH8
+	Definicao: RecName: Full=DNA polymerase IV 2; Short=Pol IV 2 [Sinorhizobium meliloti 1021]
+	Tamanho do hit: 354 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 2.61743e-123
+			Score: 928.0
+			Tamanho hsp: 337 aa
+			Numero de aa identicos: 186
+			Numero de aa identicos e positivos: 236
+			Numero de gaps: 0
+
+Alinhamento 4
+	Accession number hit (relativo a base de dados usado no blast): Q5FSM8
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Gluconobacter oxydans 621H]
+	Tamanho do hit: 356 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.88622e-122
+			Score: 923.0
+			Tamanho hsp: 340 aa
+			Numero de aa identicos: 179
+			Numero de aa identicos e positivos: 232
+			Numero de gaps: 0
+
+Alinhamento 5
+	Accession number hit (relativo a base de dados usado no blast): Q72MY7
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130]
+	Tamanho do hit: 362 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 8.2892e-120
+			Score: 906.0
+			Tamanho hsp: 357 aa
+			Numero de aa identicos: 188
+			Numero de aa identicos e positivos: 245
+			Numero de gaps: 8
+
+Alinhamento 6
+	Accession number hit (relativo a base de dados usado no blast): Q8F8Q2
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Leptospira interrogans serovar Lai str. 56601]
+	Tamanho do hit: 362 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.85631e-119
+			Score: 904.0
+			Tamanho hsp: 357 aa
+			Numero de aa identicos: 188
+			Numero de aa identicos e positivos: 245
+			Numero de gaps: 8
+
+
+---ALINHAMENTOS---
+
+Numero alinhamento: 1
+	Proteina codificada pelo gene accession number (relativo a base de dados usado no blast): Q64X95
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Bacteroides fragilis YCH46]
+	Tamanho da proteina: 364 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 0.0
+			Score: 1700.0
+			Tamanho do hsp: 362
+			Numero de aa identicos: 317
+			Numero de aa identicos e positivos: 340
+			Numero de gaps: 0
+			Sequencia da proteina:
+				MFQRKIIHIDMDAFYASVEQRDHPELRGKPLAVGHAEERGVVAAASYEARRYGVRSAMSSQKAKRLCPQLIFVSGRMDVYKSVSRQIHEIFHEYTDIIEP
+				LSLDEAFLDVTENKKGISLAVDIAKEIKLRIREQLNLVASAGVSYNKFLAKIASDYRKPDGLCTIHPDQALDFIAGLPIESFWGVGPVTAKKMHLLGIHN
+				GLQLRKCSLEMLTAHFGKVGALYYECSRGIDERPVEAVRIRKSIGCERTLERDISVHSSVIIELYHVAVELIERLQRKEFKGNTLTLKIKFHDFSQITRS
+				ITQSQELYTLDRILPLAKELLKSVEYEQHPIRLIGLSVSNPKEEADEQHGVWEQLSFEFSDW
+
+Numero alinhamento: 2
+	Hit accession number (relativo a base de dados usada no blast): B2UKN1
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Akkermansia muciniphila ATCC BAA-835]
+	Tamanho do hit: 359 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.70128e-159
+			Score: 1166.0
+			Tamanho do hsp: 359
+			Numero de aa identicos: 225
+			Numero de aa identicos e positivos: 269
+			Numero de gaps: 2
+			Sequencia do hit:
+				MNQRKIIHVDMDAFYASIEQRDHPEYRGKPIAVGRPEMRGVVAAASYEARRFGVRSAMPSMKALKLCPHLIFTRNRMDVYKAVSAQIHAIFHRYTDLVEP
+				LSLDEAFLDVTENKPGIPLAVDIARRIKKEIRRELHLTASAGVSYNKFLAKIASDYRKPDGLFTIHPSRAEKFIAALPIEAFWGVGHATAERMRALSITN
+				GAQLRARDKDFLVRHFGKTGAIFYNFARGVDDRPVEPSRMRKSVGCEETYRENVTRAEALEQRLPLLAEELAGRLARSGFRGNTLTLKVKFPDFVQKTRC
+				ATVPEILTEKEGILPLARTLMEELDSGDRTFRLLGLSVSHPQEE--QRQGIWEQLWLEL
+			Sequencia do alinhamento:
+				M QRKIIH+DMDAFYAS+EQRDHPE RGKP+AVG  E RGVVAAASYEARR+GVRSAM S KA +LCP LIF   RMDVYK+VS QIH IFH YTD++EP
+				LSLDEAFLDVTENK GI LAVDIA+ IK  IR +L+L ASAGVSYNKFLAKIASDYRKPDGL TIHP +A  FIA LPIE+FWGVG  TA++M  L I N
+				G QLR    + L  HFGK GA++Y  +RG+D+RPVE  R+RKS+GCE T   +++   ++   L  +A EL  RL R  F+GNTLTLK+KF DF Q TR 
+				 T  + L   + ILPLA+ L++ ++      RL+GLSVS+P+EE  ++ G+WEQL  E 
+
+Numero alinhamento: 3
+	Hit accession number (relativo a base de dados usada no blast): Q92XH8
+	Definicao: RecName: Full=DNA polymerase IV 2; Short=Pol IV 2 [Sinorhizobium meliloti 1021]
+	Tamanho do hit: 354 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.61743e-123
+			Score: 928.0
+			Tamanho do hsp: 337
+			Numero de aa identicos: 186
+			Numero de aa identicos e positivos: 236
+			Numero de gaps: 0
+			Sequencia do hit:
+				RKIIHIDMDAFYASVEQRDNPELRGKPVAVGYPEARGVVAAASYEARKFGVHSAMPSVTAKRKCPELIFVPHRFDVYRAVSRQIQAIFAEYTPLVEPLSL
+				DEAYLDVTENFRGLKLATEIAEEIRGRIRAETHLTASAGVSYNKFLAKMASDQRKPDGLFVITPKHGPDFVQALPVKKFHGVGPATAEKMKRLGIETGAD
+				LKSRDLAFLQQHFGKSGPYFYWIARGIDERKVKPDRIRKSIGAEDTFREDVHDLETARAGLKPLIDKVWHYCEASGIRGKTMTLKVKWADFTQITRSKTI
+				VAPIASVAEMSEIAELLLSPIFPAPKGIRLLGVTLSS
+			Sequencia do alinhamento:
+				RKIIHIDMDAFYASVEQRD+PELRGKP+AVG+ E RGVVAAASYEAR++GV SAM S  AKR CP+LIFV  R DVY++VSRQI  IF EYT ++EPLSL
+				DEA+LDVTEN +G+ LA +IA+EI+ RIR + +L ASAGVSYNKFLAK+ASD RKPDGL  I P    DF+  LP++ F GVGP TA+KM  LGI  G  
+				L+   L  L  HFGK G  +Y  +RGIDER V+  RIRKSIG E T   D+    +    L  +  ++    +    +G T+TLK+K+ DF+QITRS T 
+				   + ++  +  +A+ LL  +      IRL+G+++S+
+
+Numero alinhamento: 4
+	Hit accession number (relativo a base de dados usada no blast): Q5FSM8
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Gluconobacter oxydans 621H]
+	Tamanho do hit: 356 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.88622e-122
+			Score: 923.0
+			Tamanho do hsp: 340
+			Numero de aa identicos: 179
+			Numero de aa identicos e positivos: 232
+			Numero de gaps: 0
+			Sequencia do hit:
+				MEQRRIVHIDMDAFYASVKQRDDPSLRGRPLAVGRGEARGVVAAASYEARRFGVRSAMPSVTAKRLCPELLFVPARFDVYRSVSAQIHDIFSRYTPLIQP
+				LSLDEAYLDLTDHLGAYGSATLVADRIRADIHAETGLTASAGVSYNRFLAKLASDYRKPDGLFVITPAMGPEFVAALPVDAFHGIGPAMARKMRALGIET
+				GADLRERDIETLTRHFGKAATFYYGISRGIDHRPVVVNRERKSLGTEQTYLRDLTSEADAHQALTQIAATLWGSAQRRQLQARTVTLKVKYADFRQITRA
+				RTLSAPVPSEEVLLETGQSLMAPLFPFVPGVRLLGLTLSG
+			Sequencia do alinhamento:
+				M QR+I+HIDMDAFYASV+QRD P LRG+PLAVG  E RGVVAAASYEARR+GVRSAM S  AKRLCP+L+FV  R DVY+SVS QIH+IF  YT +I+P
+				LSLDEA+LD+T++      A  +A  I+  I  +  L ASAGVSYN+FLAK+ASDYRKPDGL  I P    +F+A LP+++F G+GP  A+KM  LGI  
+				G  LR+  +E LT HFGK    YY  SRGID RPV   R RKS+G E+T  RD++  +     L  +A  L    QR++ +  T+TLK+K+ DF QITR+
+				 T S  + + + +L   + L+  +      +RL+GL++S 
+
+Numero alinhamento: 5
+	Hit accession number (relativo a base de dados usada no blast): Q72MY7
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130]
+	Tamanho do hit: 362 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 8.2892e-120
+			Score: 906.0
+			Tamanho do hsp: 357
+			Numero de aa identicos: 188
+			Numero de aa identicos e positivos: 245
+			Numero de gaps: 8
+			Sequencia do hit:
+				METRKIIHVDMDAFYASVEQRDFPEYKGKPLIVGGPPNSRSVVSAASYEARKFGVRSAMPCSKAAQLAPQAIFVFPRFEVYKEVSKQIREIFLEYTDLVE
+				MLSLDEGYLDVTFNKKNIPFAVTIAKEIRTEIFKRTELTASAGVGNSKFISKLASEKNKPNGLTVVLPDDVISFIDPLPVSSFHGVGKVTARKMKELGIY
+				TGKDLRTKSIDELVQHFGKMGIYYYKISRGEDERMVQSSRERKSLGAESTFDRDKLDYDDLLKQLKDVAVVVERRLEKKDFAGKTLTLKIKFYDFSLKTR
+				SKTLSEPIFKADELYSTAIELFEEFFEIKYGKKSAIKAIRLLGISLSHPNSENEDPN
+			Sequencia do alinhamento:
+				M  RKIIH+DMDAFYASVEQRD PE +GKPL VG     R VV+AASYEAR++GVRSAM   KA +L PQ IFV  R +VYK VS+QI EIF EYTD++E
+				 LSLDE +LDVT NKK I  AV IAKEI+  I ++  L ASAGV  +KF++K+AS+  KP+GL  + PD  + FI  LP+ SF GVG VTA+KM  LGI+
+				 G  LR  S++ L  HFGK+G  YY+ SRG DER V++ R RKS+G E T +RD   +  ++ +L  VAV +  RL++K+F G TLTLKIKF+DFS  TR
+				S T S+ ++  D +   A EL +    ++Y +      IRL+G+S+S+P  E ++ +
+
+Numero alinhamento: 6
+	Hit accession number (relativo a base de dados usada no blast): Q8F8Q2
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Leptospira interrogans serovar Lai str. 56601]
+	Tamanho do hit: 362 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.85631e-119
+			Score: 904.0
+			Tamanho do hsp: 357
+			Numero de aa identicos: 188
+			Numero de aa identicos e positivos: 245
+			Numero de gaps: 8
+			Sequencia do hit:
+				METRKIIHVDMDAFYASVEQRDFPEYKGKPLIVGGPPNSRSVVSAASYEARKFGVRSAMPCSKAAQLAPQAIFVFPRFEVYKEVSKQIREIFLEYTDLVE
+				MLSLDEGYLDVTFNKKNIPYAVTIAKEIRTEIFKRTELTASAGVGNSKFISKLASEKNKPNGLTVVLPDDVISFIDPLPVSSFHGVGKVTARKMKELGIY
+				TGKDLRTKSIDELVQHFGKMGIYYYKISRGEDERMVQSSRERKSLGAESTFDRDKLDYDDLLKQLKDVAVVVERRLEKKDFAGKTLTLKIKFYDFSLKTR
+				SKTLSEPIFKADELYSTAIELFEEFFEIKYGKKSAIKAIRLLGISLSHPNSENEDPN
+			Sequencia do alinhamento:
+				M  RKIIH+DMDAFYASVEQRD PE +GKPL VG     R VV+AASYEAR++GVRSAM   KA +L PQ IFV  R +VYK VS+QI EIF EYTD++E
+				 LSLDE +LDVT NKK I  AV IAKEI+  I ++  L ASAGV  +KF++K+AS+  KP+GL  + PD  + FI  LP+ SF GVG VTA+KM  LGI+
+				 G  LR  S++ L  HFGK+G  YY+ SRG DER V++ R RKS+G E T +RD   +  ++ +L  VAV +  RL++K+F G TLTLKIKF+DFS  TR
+				S T S+ ++  D +   A EL +    ++Y +      IRL+G+S+S+P  E ++ +
+
+Numero alinhamento: 7
+	Hit accession number (relativo a base de dados usada no blast): Q8UJK7
+	Definicao: RecName: Full=DNA polymerase IV 2; Short=Pol IV 2 [Agrobacterium fabrum str. C58]
+	Tamanho do hit: 357 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.28731e-115
+			Score: 876.0
+			Tamanho do hsp: 349
+			Numero de aa identicos: 186
+			Numero de aa identicos e positivos: 236
+			Numero de gaps: 3
+			Sequencia do hit:
+				RKIIHVDMDAFYASVEQRDNPELRGRPVAVGSAAARGVVAAASYEAREFGVRSAMPSVTAARRCPDLIFVPPRFDVYKAVSQQIRAIFAEYTRLIEPLSL
+				DEAYLDVTENLKGMEIATEIASEIRERIKQITGLNASAGISYNKFLAKMASDLNKPNGQAVITPKNGPAFVEQLAVKKFHGVGPATAEKMHRFGIETGAD
+				LKSKSLQFLAEHFGKSGAYFYGIARGIDERQVRPDRIRKSVGAEDTFSVDINDLDLATAELRPLAEKVWHHCEAQRVSGKTVTVKVKYSDFTQATRSRTS
+				ALPVNGIQEILEAASALLATVYPFRRSVRLLGVTLSSLTNDQEAEDEEQ
+			Sequencia do alinhamento:
+				RKIIH+DMDAFYASVEQRD+PELRG+P+AVG A  RGVVAAASYEAR +GVRSAM S  A R CP LIFV  R DVYK+VS+QI  IF EYT +IEPLSL
+				DEA+LDVTEN KG+ +A +IA EI+ RI++   L ASAG+SYNKFLAK+ASD  KP+G   I P     F+  L ++ F GVGP TA+KMH  GI  G  
+				L+  SL+ L  HFGK GA +Y  +RGIDER V   RIRKS+G E T   DI+       EL  +A ++    + +   G T+T+K+K+ DF+Q TRS T 
+				+  +  +  IL  A  LL +V   +  +RL+G+   S++N +E  DE+ 
+
+Numero alinhamento: 8
+	Hit accession number (relativo a base de dados usada no blast): Q18A91
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Clostridioides difficile 630]
+	Tamanho do hit: 365 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 3.51372e-110
+			Score: 843.0
+			Tamanho do hsp: 363
+			Numero de aa identicos: 177
+			Numero de aa identicos e positivos: 240
+			Numero de gaps: 11
+			Sequencia do hit:
+				RKIIHIDMDAFYASIEQRDNKKLKGRPVIVGGNPQSRGVVATCSYEARKFGIHSAMPSAVAYNRCPYAVFVRPRFDVYKSVSEKIRDIFYRYTDLVEPLS
+				LDEAYLDVTKNKKNIDSSIEIAKQIKKDIFREVGLTSSAGVSYNKFLAKIASDLRKPNGLTVITEENAQDFLDKLPVNKFFGVGKVTSNTLKNLGIKTGY
+				DLRCLNLFELENIFKKRGYELYKFARGIDDRPVEPNRVRKSVGAETTLSHNLDIDEE---ETRNILDELCEEVCHRLKNSEKFGKTLTLKIKYEDFTKIT
+				RSLSLEHYIDEYNDIRSGVDNLLRNVEVNGKQIRLLGVTISNL---SDKKETYKDITLFEYMD
+			Sequencia do alinhamento:
+				RKIIHIDMDAFYAS+EQRD+ +L+G+P+ VG + + RGVVA  SYEAR++G+ SAM S  A   CP  +FV  R DVYKSVS +I +IF+ YTD++EPLS
+				LDEA+LDVT+NKK I  +++IAK+IK  I  ++ L +SAGVSYNKFLAKIASD RKP+GL  I  + A DF+  LP+  F+GVG VT+  +  LGI  G 
+				 LR  +L  L   F K G   Y+ +RGID+RPVE  R+RKS+G E TL  ++ +      E  ++  EL E    RL+  E  G TLTLKIK+ DF++IT
+				RS++    +   + I      LL++VE     IRL+G+++SN    +D++    +   FE+ D
+
+Numero alinhamento: 9
+	Hit accession number (relativo a base de dados usada no blast): Q0TQ38
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Clostridium perfringens ATCC 13124]
+	Tamanho do hit: 359 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.53126e-110
+			Score: 840.0
+			Tamanho do hsp: 357
+			Numero de aa identicos: 177
+			Numero de aa identicos e positivos: 237
+			Numero de gaps: 3
+			Sequencia do hit:
+				NRKIIHIDMDAFYASIEQRDNPKYKGKPLIVGGDPNRRGVVATCSYEARKYGIHSAMPSLTAYKLCPKAIFIRPRMEVYKKVSRQVMNILNEYSNLVEHL
+				SLDEAFVDVSKSKRCKGSATLMALEIKERIFKEVGLTASAGVSFNKFLAKMASDFRKPDGITVITEENSKDFIRNIPIGKFFGVGRVTKNKLNNIGVFKG
+				EDLLKFSEEELIDIFSDRGKILYEFARGIDNRPVNPYRIRKSIGKEITLREDIEDIDEMIEILERIAERVSESLCLLNKKGKTVTLKVKFNDFKHITRSI
+				TLEHFLKEQKEIMECVKDLISIVDFKNKKVRLLGITISSLEENIITEE--REQLSFD
+			Sequencia do alinhamento:
+				 RKIIHIDMDAFYAS+EQRD+P+ +GKPL VG     RGVVA  SYEAR+YG+ SAM S  A +LCP+ IF+  RM+VYK VSRQ+  I +EY++++E L
+				SLDEAF+DV+++K+    A  +A EIK RI +++ L ASAGVS+NKFLAK+ASD+RKPDG+  I  + + DFI  +PI  F+GVG VT  K++ +G+  G
+				  L K S E L   F   G + YE +RGID RPV   RIRKSIG E TL  DI     +I  L  +A  + E L     KG T+TLK+KF+DF  ITRSI
+				T    L     I+   K+L+  V+++   +RL+G+++S+ +E    +    EQLSF+
+
+Numero alinhamento: 10
+	Hit accession number (relativo a base de dados usada no blast): Q98NW7
+	Definicao: RecName: Full=DNA polymerase IV 3; Short=Pol IV 3 [Mesorhizobium japonicum MAFF 303099]
+	Tamanho do hit: 361 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.04667e-108
+			Score: 833.0
+			Tamanho do hsp: 337
+			Numero de aa identicos: 187
+			Numero de aa identicos e positivos: 230
+			Numero de gaps: 1
+			Sequencia do hit:
+				RKIIHVDMDAFYASVEQRDNPELRGKPLAVGGAAARGVVAAASYEARAFGVRSAMPSVTAKRKCPELIFVPPRFDVYRAVSAQIRDVFAEHTDLIEPLSL
+				DEAYLDVTQNRLNISSATTIAEMIRAKILEVTGLTASAGISYNKFLAKMASDQNKPNGQFVITPRHGPAFVETLPVNKFHGVGPATAAKMEALGIETGAD
+				LKERSLSFLQQHFGKSGLWYYQIARAIDERAVDPDRPRKSIGAEDTFAADIVDLETSLAELKPLVAKVWGYCEGKGIRGRTVTLKIKFADFQQITRSRTV
+				AVPI-ELSDFEHLAADLLGSVFPVRKGIRLLGVTLSS
+			Sequencia do alinhamento:
+				RKIIH+DMDAFYASVEQRD+PELRGKPLAVG A  RGVVAAASYEAR +GVRSAM S  AKR CP+LIFV  R DVY++VS QI ++F E+TD+IEPLSL
+				DEA+LDVT+N+  IS A  IA+ I+ +I E   L ASAG+SYNKFLAK+ASD  KP+G   I P     F+  LP+  F GVGP TA KM  LGI  G  
+				L++ SL  L  HFGK G  YY+ +R IDER V+  R RKSIG E T   DI    + + EL  +  ++    + K  +G T+TLKIKF DF QITRS T 
+				+  +  L     LA +LL SV   +  IRL+G+++S+
+
+Numero alinhamento: 11
+	Hit accession number (relativo a base de dados usada no blast): Q8XK37
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Clostridium perfringens str. 13]
+	Tamanho do hit: 359 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.2799e-106
+			Score: 817.0
+			Tamanho do hsp: 357
+			Numero de aa identicos: 177
+			Numero de aa identicos e positivos: 236
+			Numero de gaps: 3
+			Sequencia do hit:
+				NRKIIHIDMDAFYASIEQRDNPKYKGKPLIVGGDPNRRGVVATCSYEARKYGIHSAMPSLTAYKLCPKAIFIRPRMEVYKKVSRQVMNILNEYSNIVEPL
+				SLDEAFVDVSKSKRCKGSATLIALEIKERIFKEVGLTASAGVSFNKFLAKMASDFRKPDGITVITEENSKDFIRKLPIGKFFGVGRVTKNKLNNIGVFKG
+				EDLLGFSEKELIGILGDRGKILYEFARGIDNRQVNPYRIRKSIGKEITLREDIEDIEEMIEILEKISERVSESLCLLNKKGKTVTLKVKFNDFKHITRSI
+				TLEHFLKEQKEIMECVKDLISIVDFKNKKVRLLGITISSLEENIITEE--REQLSFD
+			Sequencia do alinhamento:
+				 RKIIHIDMDAFYAS+EQRD+P+ +GKPL VG     RGVVA  SYEAR+YG+ SAM S  A +LCP+ IF+  RM+VYK VSRQ+  I +EY++I+EPL
+				SLDEAF+DV+++K+    A  IA EIK RI +++ L ASAGVS+NKFLAK+ASD+RKPDG+  I  + + DFI  LPI  F+GVG VT  K++ +G+  G
+				  L   S + L    G  G + YE +RGID R V   RIRKSIG E TL  DI     +I  L  ++  + E L     KG T+TLK+KF+DF  ITRSI
+				T    L     I+   K+L+  V+++   +RL+G+++S+ +E    +    EQLSF+
+
+Numero alinhamento: 12
+	Hit accession number (relativo a base de dados usada no blast): Q0A4X2
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Alkalilimnicola ehrlichii MLHE-1]
+	Tamanho do hit: 355 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 5.87512e-106
+			Score: 814.0
+			Tamanho do hsp: 341
+			Numero de aa identicos: 171
+			Numero de aa identicos e positivos: 225
+			Numero de gaps: 2
+			Sequencia do hit:
+				MSQRKIIHVDMDAFYASVEQRDRPGLRGRPVVVGGDPNGRGVVAAASYEARRHGIHSAMPAWRAARLCPDAVFLRPRFDVYRSISAQIQALFREYTPLVE
+				PLSLDEAYLDVSDCPRRGGSATLIAREIRARIHEQTGLTASAGVSCNKFLAKIASDLDKPDGLHVIPPEQAEAFVAALPVGKIHGVGQATRQRMERMGVR
+				TGADLRRLTLLELQRAFGSRARFYYELARGRDERPVRPRRERKSVGAETTFGEDLNNPAEMLERMAPLADKVAASLHRRGLAGRTVTLKVKYHDFRQITR
+				SLS-GRPVQSADEIRARLPALLQDTEAGDRPVRLLGVTVSG
+			Sequencia do alinhamento:
+				M QRKIIH+DMDAFYASVEQRD P LRG+P+ VG     RGVVAAASYEARR+G+ SAM + +A RLCP  +F+  R DVY+S+S QI  +F EYT ++E
+				PLSLDEA+LDV++  +    A  IA+EI+ RI EQ  L ASAGVS NKFLAKIASD  KPDGL  I P+QA  F+A LP+    GVG  T ++M  +G+ 
+				 G  LR+ +L  L   FG     YYE +RG DERPV   R RKS+G E T   D++  + ++  +  +A ++   L R+   G T+TLK+K+HDF QITR
+				S++  + + + D I      LL+  E    P+RL+G++VS 
+
+Numero alinhamento: 13
+	Hit accession number (relativo a base de dados usada no blast): Q0SSQ2
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Clostridium perfringens SM101]
+	Tamanho do hit: 359 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.2674e-106
+			Score: 814.0
+			Tamanho do hsp: 339
+			Numero de aa identicos: 171
+			Numero de aa identicos e positivos: 227
+			Numero de gaps: 1
+			Sequencia do hit:
+				NRKIIHIDMDAFYASIEQRDNPKYKGKPLIVGGDPNRRGVVATCSYEARKYGIHSAMPSLTAYKLCPKAIFIRPRMEVYKKVSRQVMNILNEYSNLVEPL
+				SLDEAFVDVSKSKRCKGSATLIALEIKERIFKEVGLTASAGVSFNKFLAKMASDFRKPDGITVITEENSKDFIRKLPIGKFFGVGRVTKNKLNNIGVFKG
+				EDLLGFSEKELIGILGDRGKILYEFARGIDNRQVNPYRIRKSIGKEITLREDIEDIEEMIEILDKIAERVSESLCLLNKKGKTVTLKVKFNDFKHITRSI
+				TLEHFLKEKKEIMECVKDLISIVDFKNKKVRLLGITISS
+			Sequencia do alinhamento:
+				 RKIIHIDMDAFYAS+EQRD+P+ +GKPL VG     RGVVA  SYEAR+YG+ SAM S  A +LCP+ IF+  RM+VYK VSRQ+  I +EY++++EPL
+				SLDEAF+DV+++K+    A  IA EIK RI +++ L ASAGVS+NKFLAK+ASD+RKPDG+  I  + + DFI  LPI  F+GVG VT  K++ +G+  G
+				  L   S + L    G  G + YE +RGID R V   RIRKSIG E TL  DI     +I  L  +A  + E L     KG T+TLK+KF+DF  ITRSI
+				T    L     I+   K+L+  V+++   +RL+G+++S+
+
+Numero alinhamento: 14
+	Hit accession number (relativo a base de dados usada no blast): Q71Y46
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Listeria monocytogenes serotype 4b str. F2365]
+	Tamanho do hit: 356 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.3681e-104
+			Score: 800.0
+			Tamanho do hsp: 342
+			Numero de aa identicos: 172
+			Numero de aa identicos e positivos: 224
+			Numero de gaps: 5
+			Sequencia do hit:
+				RKIIHIDMDAFYASVEQRDHPEFRGKPLIIGGDPNKRGVVATCSYEARKFGVHSAMPTRQAAKLCPNGIFIHGNMAHYVEVSNQIREIFSRYTDIIEPLS
+				LDEAYLDVTENKKGMKSATMVAREIQQTIYQELGLTASAGVSFNKFIAKIASDFKKPAGITVVTPEEAEAFLEQIPVTKFYGVGKVTAEKLHRLGIETGA
+				DLKKWSEWDLIRELHKHGYHLYRHVRGRSNNIVNPHRDRKSVGKETTFE--FNVLDSRVLEQSLMQFAKKVEERLIKLQKHGKTVVLKLRYSDFTTITKR
+				LTLNEYTNDTSQIYQAAALLLRESYTGQDSIRLIGLTVTNLK
+			Sequencia do alinhamento:
+				RKIIHIDMDAFYASVEQRDHPE RGKPL +G    +RGVVA  SYEAR++GV SAM +++A +LCP  IF+ G M  Y  VS QI EIF  YTDIIEPLS
+				LDEA+LDVTENKKG+  A  +A+EI+  I ++L L ASAGVS+NKF+AKIASD++KP G+  + P++A  F+  +P+  F+GVG VTA+K+H LGI  G 
+				 L+K S   L     K G   Y   RG     V   R RKS+G E T E   +V  S ++E  L   A ++ ERL + +  G T+ LK+++ DF+ IT+ 
+				+T ++      +I   A  LL+     Q  IRLIGL+V+N K
+
+Numero alinhamento: 15
+	Hit accession number (relativo a base de dados usada no blast): Q92A40
+	Definicao: RecName: Full=DNA polymerase IV; Short=Pol IV [Listeria innocua Clip11262]
+	Tamanho do hit: 356 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 7.74433e-104
+			Score: 800.0
+			Tamanho do hsp: 340
+			Numero de aa identicos: 169
+			Numero de aa identicos e positivos: 222
+			Numero de gaps: 1
+			Sequencia do hit:
+				RKIIHIDMDAFYASVEQRDHPEFRGKPLIIGGDPNKRGVVATCSYEARKFGVHSAMPTRQAAKLCPNGIFIHGNMAHYVEVSNQIREIFSRYTDIIEPLS
+				LDEAYLDVTENKKGMKSATMVAREIQQTIYRELGLTASAGVSFNKFIAKIASDFKKPAGITVVAPEEAEAFLEQIPVTKFYGVGKVTAEKLHRLGIETGA
+				DLKKWSEWDLIRELHKHGYQLYRHVRGRSNNIVNPHRDRKSVGKETTFEFNVLDNRILEQSLMKFAKKVEERLIKLQKHGKTVVLKLRYSDFTTITKRLT
+				LNEYTNDANQIYQAAALLLRESYKGQDSIRLIGLTVTNLK
+			Sequencia do alinhamento:
+				RKIIHIDMDAFYASVEQRDHPE RGKPL +G    +RGVVA  SYEAR++GV SAM +++A +LCP  IF+ G M  Y  VS QI EIF  YTDIIEPLS
+				LDEA+LDVTENKKG+  A  +A+EI+  I  +L L ASAGVS+NKF+AKIASD++KP G+  + P++A  F+  +P+  F+GVG VTA+K+H LGI  G 
+				 L+K S   L     K G   Y   RG     V   R RKS+G E T E ++  +  +   L   A ++ ERL + +  G T+ LK+++ DF+ IT+ +T
+				 ++     ++I   A  LL+     Q  IRLIGL+V+N K
+

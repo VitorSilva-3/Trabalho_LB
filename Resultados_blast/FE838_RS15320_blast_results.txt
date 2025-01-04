@@ -1,0 +1,451 @@
+***RESULTADOS DO BLAST PARA A PROTEINA CODIFICADA PELO GENE FE838_RS15320***
+
+Accession number (NCBI) da proteina codificada pelo gene FE838_RS15320: WP_011107229.1
+Numero de hits: 15
+Matriz usada no alinhamento: BLOSUM62
+Penalidades de espacamentos (abertura,propagacao): (11, 1)
+Base de proteinas usada: swissprot
+
+---MELHORES ALINHAMENTOS---
+
+Alinhameto 1: Proteina codifica pelo gene FE838_RS15320
+	Accession number (relativo a base de dados usado no blast): O33952
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli]
+
+Alinhamento 2
+	Accession number hit (relativo a base de dados usado no blast): Q04873
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.48238e-167
+			Score: 1231.0
+			Tamanho hsp: 433 aa
+			Numero de aa identicos: 242
+			Numero de aa identicos e positivos: 312
+			Numero de gaps: 45
+
+Alinhamento 3
+	Accession number hit (relativo a base de dados usado no blast): Q04872
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli O111:H-]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.40622e-166
+			Score: 1225.0
+			Tamanho hsp: 433 aa
+			Numero de aa identicos: 247
+			Numero de aa identicos e positivos: 306
+			Numero de gaps: 45
+
+Alinhamento 4
+	Accession number hit (relativo a base de dados usado no blast): Q7DBF9
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli O157:H7]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 1.15724e-165
+			Score: 1219.0
+			Tamanho hsp: 433 aa
+			Numero de aa identicos: 241
+			Numero de aa identicos e positivos: 311
+			Numero de gaps: 45
+
+Alinhamento 5
+	Accession number hit (relativo a base de dados usado no blast): Q8FG45
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli CFT073]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 5.76212e-165
+			Score: 1214.0
+			Tamanho hsp: 433 aa
+			Numero de aa identicos: 240
+			Numero de aa identicos e positivos: 311
+			Numero de gaps: 45
+
+Alinhamento 6
+	Accession number hit (relativo a base de dados usado no blast): P76373
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli K-12]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero hsp: 1
+			E-value: 8.26195e-165
+			Score: 1213.0
+			Tamanho hsp: 433 aa
+			Numero de aa identicos: 240
+			Numero de aa identicos e positivos: 310
+			Numero de gaps: 45
+
+
+---ALINHAMENTOS---
+
+Numero alinhamento: 1
+	Proteina codificada pelo gene accession number (relativo a base de dados usado no blast): O33952
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli]
+	Tamanho da proteina: 388 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.30029e-167
+			Score: 1232.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 244
+			Numero de aa identicos e positivos: 312
+			Numero de gaps: 45
+			Sequencia da proteina:
+				LKIAVAGTGYVGLSIATLLSQHHQVTAVDVIPEKVDMLNRKQSPIQDEYIEKYLSEKALNLTATLDGAKAYSDADFVIIAAPTNYDPVKNYFDTHHIEDV
+				IDLVLSVNPDAVMVIKSTIPVGYCRGLYLKYARKEVKKLNLLFSPEFLRESMALYDNLYPSRIIVGYPKLIDGEQFDEENEAIKAIADVLTLEKAAHAFA
+				ALLQEGAIKKDIPTLFMGIKEAEAVKLFANTYLALRVSYFNELDTYAEMKGLDSQSIIQGVGLDPRIGTHYNNPSFGYGGYCLPKDTKQLLANYQDVPQN
+				MMTAIVESNRTRKDFIADQVLRKAGYYTASCSWDAQKEQKITIGVYRLTMKSNSDNFRQSAIQGIMKRIKAKGATIVIFEPTMQDGETFFGSQVINNLVE
+				FKEISQAIIANRYDACLDDVKEKVYTRDIFQRD
+
+Numero alinhamento: 2
+	Hit accession number (relativo a base de dados usada no blast): Q04873
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.48238e-167
+			Score: 1231.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 242
+			Numero de aa identicos e positivos: 312
+			Numero de gaps: 45
+			Sequencia do hit:
+				MKITISGTGYVGLSNGLLIAQHHDVVALDIVPSRVELLNDRISPIVDKEIQQFLKEDNIRFRATLDKFDAYQNADYVIIATPTDYDPKTNYFNTSSVESV
+				MQDVISINPAAVMIIKSTVPVGFTAAMRQKFATE-----NIIFSPEFLREGKALYDNLYPSRIVIG-----------EQSER-------------AREFA
+				ALLQEGAIKQEIPTLFTDSTEAEAIKLFANTYLAMRVAYFNELDSYAETLGLNTRQIIEGVCLDPRIGNHYNNPSFGYGGYCLPKDTKQLLANYQSVPNN
+				IISAIVEANRTRKDFIADAIL-------------ARKPK--VVGIYRLIMKSGSDNFRASSIQGIMKRIKAKGVEVIIYEPVMEE-DTFFNSRLERDLHC
+				FKQQADVIISNRMAAELLDVAEKVYTRDLFGSD
+			Sequencia do alinhamento:
+				+KI ++GTGYVGLS   L++QHH V A+D++P +V++LN + SPI D+ I+++L E  +   ATLD   AY +AD+VIIA PT+YDP  NYF+T  +E V
+				+  V+S+NP AVM+IKST+PVG+   +  K+A +     N++FSPEFLRE  ALYDNLYPSRI++G           E++E              A  FA
+				ALLQEGAIK++IPTLF    EAEA+KLFANTYLA+RV+YFNELD+YAE  GL+++ II+GV LDPRIG HYNNPSFGYGGYCLPKDTKQLLANYQ VP N
+				+++AIVE+NRTRKDFIAD +L             A+K +   +G+YRL MKS SDNFR S+IQGIMKRIKAKG  ++I+EP M++ +TFF S++  +L  
+				FK+ +  II+NR  A L DV EKVYTRD+F  D
+
+Numero alinhamento: 3
+	Hit accession number (relativo a base de dados usada no blast): Q04872
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli O111:H-]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.40622e-166
+			Score: 1225.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 247
+			Numero de aa identicos e positivos: 306
+			Numero de gaps: 45
+			Sequencia do hit:
+				MKITISGTGYVGLSNGILIAQHHEVVALDIVPTKVEMLNQKKSPIVDKEIEEYLATKQLNFRATTDKYDAYRDGTYVIIATPTDYDPKTNYFNTSSVESV
+				IRDVVDINPNAVMVIKSTIPVGFTNLL-----KERLGIDNIFFSPEFLREGRALYDNLHPSRIVIG-----------ERSER-------------AGRFA
+				ALLQEGAVKKDIPTLFTDSTEAEAIKLFANTYLALRVAYFNELDSYAESLGLNSRQIIEGVCLDPRIGNHYNNPSFGYGGYCLPKDTKQLLANYASVPNN
+				IIGAIVDANRTRKDFIADSIL-------------ARKPK--VVGVYRLIMKSGSDNFRASSIQGIMKRIKAKGVPVIIYEPVMVEDE-FFHSRVVRDLTA
+				FKNEADIIISNRMTSELADVADKVYTRGLFGSD
+			Sequencia do alinhamento:
+				+KI ++GTGYVGLS   L++QHH+V A+D++P KV+MLN+K+SPI D+ IE+YL+ K LN  AT D   AY D  +VIIA PT+YDP  NYF+T  +E V
+				I  V+ +NP+AVMVIKSTIPVG+   L     ++ +   N+ FSPEFLRE  ALYDNL+PSRI++G           E +E              A  FA
+				ALLQEGA+KKDIPTLF    EAEA+KLFANTYLALRV+YFNELD+YAE  GL+S+ II+GV LDPRIG HYNNPSFGYGGYCLPKDTKQLLANY  VP N
+				++ AIV++NRTRKDFIAD +L             A+K +   +GVYRL MKS SDNFR S+IQGIMKRIKAKG  ++I+EP M + E FF S+V+ +L  
+				FK  +  II+NR  + L DV +KVYTR +F  D
+
+Numero alinhamento: 4
+	Hit accession number (relativo a base de dados usada no blast): Q7DBF9
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli O157:H7]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.15724e-165
+			Score: 1219.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 241
+			Numero de aa identicos e positivos: 311
+			Numero de gaps: 45
+			Sequencia do hit:
+				MKITISGTGYVGLSNGLLIAQNHEVVALDILPSRVAMLNDRISPIVDKEIQQFLQSDKIHFNATLDKNEAYRDADYVIIATPTDYDPKTNYFNTSSVESV
+				IKDVVEINPYAVMVIKSTVPVGFTEAMHKKY-RTE----NIIFSPEFLREGKALYDNLHPSRIVIG-----------ERSER-------------AERFA
+				ALLQEGAIKQNIPTLFTDSTEAEAIKLFANTYLAMRVAYFNELDSYAESLGLNSRQIIEGVCLDPRIGNHYNNPSFGYGGYCLPKDTKQLLANYQSVPNN
+				LISAIVDANRTRKDFIADAIL-------------SRKPQ--VVGIYRLIMKSGSDNFRASSIQGIMKRIKAKGVEVIIYEPVMKE-DSFFNSRLERDLAT
+				FKQQADVIISNRMAEELRDVADKVYTRDLFGSD
+			Sequencia do alinhamento:
+				+KI ++GTGYVGLS   L++Q+H+V A+D++P +V MLN + SPI D+ I+++L    ++  ATLD  +AY DAD+VIIA PT+YDP  NYF+T  +E V
+				I  V+ +NP AVMVIKST+PVG+   ++ KY R E    N++FSPEFLRE  ALYDNL+PSRI++G           E +E              A  FA
+				ALLQEGAIK++IPTLF    EAEA+KLFANTYLA+RV+YFNELD+YAE  GL+S+ II+GV LDPRIG HYNNPSFGYGGYCLPKDTKQLLANYQ VP N
+				+++AIV++NRTRKDFIAD +L             ++K Q   +G+YRL MKS SDNFR S+IQGIMKRIKAKG  ++I+EP M++ ++FF S++  +L  
+				FK+ +  II+NR    L DV +KVYTRD+F  D
+
+Numero alinhamento: 5
+	Hit accession number (relativo a base de dados usada no blast): Q8FG45
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli CFT073]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 5.76212e-165
+			Score: 1214.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 240
+			Numero de aa identicos e positivos: 311
+			Numero de gaps: 45
+			Sequencia do hit:
+				MKITISGTGYVGLSNGLLIAQNHEVVALDILPSRVAMLNDRISPIVDKEIQQFLQSDKIHFNATLDKNEAYRDADYVIIATPTDYDPKTNYFNTSSVESV
+				IKDVVEINPYAVMVIKSTVPVGFTAAMHKKY-RTE----NIIFSPEFLREGKALYDNLHPSRIVIG-----------ERSER-------------AERFA
+				ALLQEGAIKQNIPTLFTDSTEAEAIKLFANTYLAMRVAYFNELDSYAESLGLNTRQIIEGVCLDPRIGNHYNNPSFGYGGYCLPKDTKQLLANYQSVPNN
+				LISAIVDANRTRKDFIADAIL-------------SRKPQ--VVGIYRLIMKSGSDNFRASSIQGIMKRIKAKGVEVIIYEPVMKE-DSFFNSRLERDLAT
+				FKQQADIIISNRMAEELKDVADKVYTRDLFGSD
+			Sequencia do alinhamento:
+				+KI ++GTGYVGLS   L++Q+H+V A+D++P +V MLN + SPI D+ I+++L    ++  ATLD  +AY DAD+VIIA PT+YDP  NYF+T  +E V
+				I  V+ +NP AVMVIKST+PVG+   ++ KY R E    N++FSPEFLRE  ALYDNL+PSRI++G           E +E              A  FA
+				ALLQEGAIK++IPTLF    EAEA+KLFANTYLA+RV+YFNELD+YAE  GL+++ II+GV LDPRIG HYNNPSFGYGGYCLPKDTKQLLANYQ VP N
+				+++AIV++NRTRKDFIAD +L             ++K Q   +G+YRL MKS SDNFR S+IQGIMKRIKAKG  ++I+EP M++ ++FF S++  +L  
+				FK+ +  II+NR    L DV +KVYTRD+F  D
+
+Numero alinhamento: 6
+	Hit accession number (relativo a base de dados usada no blast): P76373
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli K-12]
+	Tamanho do hit: 388 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 8.26195e-165
+			Score: 1213.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 240
+			Numero de aa identicos e positivos: 310
+			Numero de gaps: 45
+			Sequencia do hit:
+				MKITISGTGYVGLSNGLLIAQNHEVVALDILPSRVAMLNDRISPIVDKEIQQFLQSDKIHFNATLDKNEAYRDADYVIIATPTDYDPKTNYFNTSSVESV
+				IKDVVEINPYAVMVIKSTVPVGFTAAMHKKY-RTE----NIIFSPEFLREGKALYDNLHPSRIVIG-----------ERSER-------------AERFA
+				ALLQEGAIKQNIPMLFTDSTEAEAIKLFANTYLAMRVAYFNELDSYAESLGLNSRQIIEGVCLDPRIGNHYNNPSFGYGGYCLPKDTKQLLANYQSVPNN
+				LISAIVDANRTRKDFIADAIL-------------SRKPQ--VVGIYRLIMKSGSDNFRASSIQGIMKRIKAKGVEVIIYEPVMKE-DSFFNSRLERDLAT
+				FKQQADVIISNRMAEELKDVADKVYTRDLFGSD
+			Sequencia do alinhamento:
+				+KI ++GTGYVGLS   L++Q+H+V A+D++P +V MLN + SPI D+ I+++L    ++  ATLD  +AY DAD+VIIA PT+YDP  NYF+T  +E V
+				I  V+ +NP AVMVIKST+PVG+   ++ KY R E    N++FSPEFLRE  ALYDNL+PSRI++G           E +E              A  FA
+				ALLQEGAIK++IP LF    EAEA+KLFANTYLA+RV+YFNELD+YAE  GL+S+ II+GV LDPRIG HYNNPSFGYGGYCLPKDTKQLLANYQ VP N
+				+++AIV++NRTRKDFIAD +L             ++K Q   +G+YRL MKS SDNFR S+IQGIMKRIKAKG  ++I+EP M++ ++FF S++  +L  
+				FK+ +  II+NR    L DV +KVYTRD+F  D
+
+Numero alinhamento: 7
+	Hit accession number (relativo a base de dados usada no blast): Q57346
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pneumoniae]
+	Tamanho do hit: 394 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.7613e-153
+			Score: 1138.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 228
+			Numero de aa identicos e positivos: 299
+			Numero de gaps: 39
+			Sequencia do hit:
+				MKIAIAGSGYVGLSLAVLLAQHHEVKVIDVIKDKVESINNRKSPIKDEAIEKYLVEKELNLEASLDPAHVYKDVEYAIIATPTNYDVDLNQFDTSSVEAA
+				IKTCMEYNDTCTIVIKSTIPEGYT-----KEVREKFNTDRIIFSPEFLRESKALYDNLYPSRIVVG-TDLDDSE-----------------LTKRAWQFA
+				DLLKGGAIKEEVPILVVAFNEAEVAKLFSNTYLATRVRYFNEIDTYSEVKGLNPKTIIDIVCYDPRIGSYYNNPSFGYGGYCLPKDTKQLKASFRDVPEN
+				LITAVVQSNKTRKDYIAGAILAK---------------QPSVVGIYRLIMKSDSDNFRSSAVKGVMERLDNYGKEIVIYEPTIE-CDTFMGYRVIKSLDE
+				FKNISDIVVANRMNDDLRDIQEKLYTRDLFGRE
+			Sequencia do alinhamento:
+				+KIA+AG+GYVGLS+A LL+QHH+V  +DVI +KV+ +N ++SPI+DE IEKYL EK LNL A+LD A  Y D ++ IIA PTNYD   N FDT  +E  
+				I   +  N    +VIKSTIP GY      K  R++     ++FSPEFLRES ALYDNLYPSRI+VG   L D E                 L K A  FA
+				 LL+ GAIK+++P L +   EAE  KLF+NTYLA RV YFNE+DTY+E+KGL+ ++II  V  DPRIG++YNNPSFGYGGYCLPKDTKQL A+++DVP+N
+				++TA+V+SN+TRKD+IA  +L K               Q   +G+YRL MKS+SDNFR SA++G+M+R+   G  IVI+EPT++  +TF G +VI +L E
+				FK IS  ++ANR +  L D++EK+YTRD+F R+
+
+Numero alinhamento: 8
+	Hit accession number (relativo a base de dados usada no blast): P37791
+	Definicao: PUTATIVE PSEUDOGENE: RecName: Full=Putative UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Shigella flexneri]
+	Tamanho do hit: 372 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.04401e-152
+			Score: 1132.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 228
+			Numero de aa identicos e positivos: 295
+			Numero de gaps: 61
+			Sequencia do hit:
+				MKITISGTGYVGLSNGLLIAQNHEVVALDILPSRVAMLNDRISPIVDKEIQQFLQSDKIHFNATLDKNEAYRDADYVIIATPTDYDPKTNYFNTSSVESV
+				IKDVVEINPYAVMVIKSTVPVGFTAAMHKKY-RTE----NIIFSPEFLREGKALYDNLHPSRIVIG-----------ERSER-------------AERFA
+				ALLQEGAIKQNIPTLFTDSTEAEAIKLFANTYLAMRVAYFNELDSYAESLGLNTRQIIEGVCLDPRIGNHYNNPSFGYGGYCLPKDTKQLLANYQSVPNN
+				LISAIVDANR---------------------KW----------WVFIVIMKSGSDNFRASSIQGIMKRIKAKGVEVIIYEPVMK-GDSFFNSRLERDLAT
+				FKQQADVIISNRMAEELKDVADKVYTRDLFGSD
+			Sequencia do alinhamento:
+				+KI ++GTGYVGLS   L++Q+H+V A+D++P +V MLN + SPI D+ I+++L    ++  ATLD  +AY DAD+VIIA PT+YDP  NYF+T  +E V
+				I  V+ +NP AVMVIKST+PVG+   ++ KY R E    N++FSPEFLRE  ALYDNL+PSRI++G           E +E              A  FA
+				ALLQEGAIK++IPTLF    EAEA+KLFANTYLA+RV+YFNELD+YAE  GL+++ II+GV LDPRIG HYNNPSFGYGGYCLPKDTKQLLANYQ VP N
+				+++AIV++NR                      W           V+ + MKS SDNFR S+IQGIMKRIKAKG  ++I+EP M+ G++FF S++  +L  
+				FK+ +  II+NR    L DV +KVYTRD+F  D
+
+Numero alinhamento: 9
+	Hit accession number (relativo a base de dados usada no blast): P0DG69
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pyogenes SSI-1]
+	Tamanho do hit: 402 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 2.73855e-152
+			Score: 1132.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 236
+			Numero de aa identicos e positivos: 296
+			Numero de gaps: 31
+			Sequencia do hit:
+				MKIAVAGSGYVGLSLGVLLSLQNEVTIVDILPSKVDKINNGLSPIQDEYIEYYLKSKQLSLQATLDSKAAYKEAELVIIATPTNYNSRINYFDTQHVETV
+				IKEVLSVNSHATLIIKSTIPIGFITEM-----RQKFQTDRIIFSPEFLRESKALYDNLYPSRIIVSC----------EENDSPKVKAD-------AEKFA
+				LLLKSAAKKNNVPVLIMGASEAEAVKLFANTYLALRVAYFNELDTYAESRKLNSHMVIQGISYDDRIGMHYNNPSFGYGGYCLPKDTKQLLANYNNIPQT
+				LIEAIVSSNNVRKSYIAKQIIN---------VLEEQESPVKVVGVYRLIMKSNSDNFRESAIKDVIDILKSKDIKIIIYEPMLNKLESEDQSVLVNDLEN
+				FKKQANIIVTNRYDNELQDVKNKVYSRDIFGRD
+			Sequencia do alinhamento:
+				+KIAVAG+GYVGLS+  LLS  ++VT VD++P KVD +N   SPIQDEYIE YL  K L+L ATLD   AY +A+ VIIA PTNY+   NYFDT H+E V
+				I  VLSVN  A ++IKSTIP+G+   +     R++ +   ++FSPEFLRES ALYDNLYPSRIIV            EEN++ K  AD       A  FA
+				 LL+  A K ++P L MG  EAEAVKLFANTYLALRV+YFNELDTYAE + L+S  +IQG+  D RIG HYNNPSFGYGGYCLPKDTKQLLANY ++PQ 
+				++ AIV SN  RK +IA Q++            + Q+     +GVYRL MKSNSDNFR+SAI+ ++  +K+K   I+I+EP +   E+   S ++N+L  
+				FK+ +  I+ NRYD  L DVK KVY+RDIF RD
+
+Numero alinhamento: 10
+	Hit accession number (relativo a base de dados usada no blast): P0C0F5
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pyogenes serotype M1]
+	Tamanho do hit: 402 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 3.84017e-152
+			Score: 1131.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 235
+			Numero de aa identicos e positivos: 296
+			Numero de gaps: 31
+			Sequencia do hit:
+				MKIAVAGSGYVGLSLGVLLSLQNEVTIVDILPSKVDKINNGLSPIQDEYIEYYLKSKQLSIKATLDSKAAYKEAELVIIATPTNYNSRINYFDTQHVETV
+				IKEVLSVNSHATLIIKSTIPIGFITEM-----RQKFQTDRIIFSPEFLRESKALYDNLYPSRIIVSC----------EENDSPKVKAD-------AEKFA
+				LLLKSAAKKNNVPVLIMGASEAEAVKLFANTYLALRVAYFNELDTYAESRKLNSHMIIQGISYDDRIGMHYNNPSFGYGGYCLPKDTKQLLANYNNIPQT
+				LIEAIVSSNNVRKSYIAKQIIN---------VLEERESPVKVVGVYRLIMKSNSDNFRESAIKDVIDILKSKDIKIIIYEPMLNKLESEDQSVLVNDLEN
+				FKKQANIIVTNRYDNELQDVKNKVYSRDIFNRD
+			Sequencia do alinhamento:
+				+KIAVAG+GYVGLS+  LLS  ++VT VD++P KVD +N   SPIQDEYIE YL  K L++ ATLD   AY +A+ VIIA PTNY+   NYFDT H+E V
+				I  VLSVN  A ++IKSTIP+G+   +     R++ +   ++FSPEFLRES ALYDNLYPSRIIV            EEN++ K  AD       A  FA
+				 LL+  A K ++P L MG  EAEAVKLFANTYLALRV+YFNELDTYAE + L+S  IIQG+  D RIG HYNNPSFGYGGYCLPKDTKQLLANY ++PQ 
+				++ AIV SN  RK +IA Q++            + ++     +GVYRL MKSNSDNFR+SAI+ ++  +K+K   I+I+EP +   E+   S ++N+L  
+				FK+ +  I+ NRYD  L DVK KVY+RDIF RD
+
+Numero alinhamento: 11
+	Hit accession number (relativo a base de dados usada no blast): P0C0F4
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pyogenes] >sp|Q5X9A8.1| RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pyogenes MGAS10394] >sp|Q8NKX0.1| RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pyogenes MGAS8232]
+	Tamanho do hit: 402 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.07125e-152
+			Score: 1130.0
+			Tamanho do hsp: 436
+			Numero de aa identicos: 238
+			Numero de aa identicos e positivos: 298
+			Numero de gaps: 37
+			Sequencia do hit:
+				MKIAVAGSGYVGLSLGVLLSLQNEVTIVDILPSKVDKINNGLSPIQDEYIEYYLKSKQLSIKATLDSKAAYKEAELVIIATPTNYNSRINYFDTQHVETV
+				IKEVLSVNSHATLIIKSTIPIGFITEM-----RQKFQTDRIIFSPEFLRESKALYDNLYPSRIIVSC----------EENDSPKVKAD-------AEKFA
+				LLLKSAAKKNNVPVLIMGASEAEAVKLFANTYLALRVAYFNELDTYAESRKLNSHMIIQGISYDDRIGMHYNNPSFGYGGYCLPKDTKQLLANYNNIPQT
+				LIEAIVSSNNVRKSYIAKQII------------NVLKEQESPVKVVGVYRLIMKSNSDNFRESAIKDVIDILKSKDIKIIIYEPMLNKLESEDQSVLVND
+				LENFKKQANIIVTNRYDNELQDVKNKVYSRDIFGRD
+			Sequencia do alinhamento:
+				+KIAVAG+GYVGLS+  LLS  ++VT VD++P KVD +N   SPIQDEYIE YL  K L++ ATLD   AY +A+ VIIA PTNY+   NYFDT H+E V
+				I  VLSVN  A ++IKSTIP+G+   +     R++ +   ++FSPEFLRES ALYDNLYPSRIIV            EEN++ K  AD       A  FA
+				 LL+  A K ++P L MG  EAEAVKLFANTYLALRV+YFNELDTYAE + L+S  IIQG+  D RIG HYNNPSFGYGGYCLPKDTKQLLANY ++PQ 
+				++ AIV SN  RK +IA Q++            +  KEQ+     +GVYRL MKSNSDNFR+SAI+ ++  +K+K   I+I+EP +   E+   S ++N+
+				L  FK+ +  I+ NRYD  L DVK KVY+RDIF RD
+
+Numero alinhamento: 12
+	Hit accession number (relativo a base de dados usada no blast): P0DG68
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Streptococcus pyogenes MGAS315]
+	Tamanho do hit: 402 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 6.20513e-152
+			Score: 1130.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 235
+			Numero de aa identicos e positivos: 296
+			Numero de gaps: 31
+			Sequencia do hit:
+				MKIAVAGSGYVGLSLGVLLSLQNEVTIVDILPSKVDKINNGLSPIQDEYIEYYLKSKQLSIKATLDSKAAYKEAELVIIATPTNYNSRINYFDTQHVETV
+				IKEVLSVNSHATLIIKSTIPIGFITEM-----RQKFQTDRIIFSPEFLRESKALYDNLYPSRIIVSC----------EENDSPKVKAD-------AEKFA
+				LLLKSAAKKNNVPVLIMGASEAEAVKLFANTYLALRVAYFNELDTYAESRKLNSHMVIQGISYDDRIGMHYNNPSFGYGGYCLPKDTKQLLANYNNIPQT
+				LIEAIVSSNNVRKSYIAKQIIN---------VLEEQESPVKVVGVYRLIMKSNSDNFRESAIKDVIDILKSKDIKIIIYEPMLNKLESEDQSVLVNDLEN
+				FKKQANIIVTNRYDNELQDVKNKVYSRDIFGRD
+			Sequencia do alinhamento:
+				+KIAVAG+GYVGLS+  LLS  ++VT VD++P KVD +N   SPIQDEYIE YL  K L++ ATLD   AY +A+ VIIA PTNY+   NYFDT H+E V
+				I  VLSVN  A ++IKSTIP+G+   +     R++ +   ++FSPEFLRES ALYDNLYPSRIIV            EEN++ K  AD       A  FA
+				 LL+  A K ++P L MG  EAEAVKLFANTYLALRV+YFNELDTYAE + L+S  +IQG+  D RIG HYNNPSFGYGGYCLPKDTKQLLANY ++PQ 
+				++ AIV SN  RK +IA Q++            + Q+     +GVYRL MKSNSDNFR+SAI+ ++  +K+K   I+I+EP +   E+   S ++N+L  
+				FK+ +  I+ NRYD  L DVK KVY+RDIF RD
+
+Numero alinhamento: 13
+	Hit accession number (relativo a base de dados usada no blast): Q47329
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Escherichia coli]
+	Tamanho do hit: 392 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.54008e-151
+			Score: 1126.0
+			Tamanho do hsp: 433
+			Numero de aa identicos: 226
+			Numero de aa identicos e positivos: 292
+			Numero de gaps: 45
+			Sequencia do hit:
+				LKITVSGAGYVGLSNGILMAQNHEVVAFDTHQKKVDLLNDKLSPIEDKEIENYLSTKILNFRATTNKYEAYKNANYVIIATPTNYDPGSNYFDTSSVEAV
+				IRDVTEINPNAIMVVKSTVPVGFTKTI-----KEHLGINNIIFSPEFLREGRALYDNLHPSRIIIG------------------------ECSERAERLA
+				VLFQEGAIKQNIPVLFTDSTEAEAIKLFSNTYLAMRVAFFNELDSYAESFGLNTRQIIDGVCLDPRIGNYYNNPSFGYGGYCLPKDTKQLLANYQSVPNK
+				LISAIVDANRTRKDFITNVIL---------------KHRPQVVGVYRLIMKSGSDNFRDSSILGIIKRIKKKGVKVIIYEPLIS-GDTFFNSPLERELAI
+				FKGKADIIITNRMSEELNDVVDKVYSRDLFKCD
+			Sequencia do alinhamento:
+				LKI V+G GYVGLS   L++Q+H+V A D   +KVD+LN K SPI+D+ IE YLS K LN  AT +  +AY +A++VIIA PTNYDP  NYFDT  +E V
+				I  V  +NP+A+MV+KST+PVG+ + +     ++ +   N++FSPEFLRE  ALYDNL+PSRII+G                           + A   A
+				 L QEGAIK++IP LF    EAEA+KLF+NTYLA+RV++FNELD+YAE  GL+++ II GV LDPRIG +YNNPSFGYGGYCLPKDTKQLLANYQ VP  
+				+++AIV++NRTRKDFI + +L               K +   +GVYRL MKS SDNFR S+I GI+KRIK KG  ++I+EP +  G+TFF S +   L  
+				FK  +  II NR    L+DV +KVY+RD+F+ D
+
+Numero alinhamento: 14
+	Hit accession number (relativo a base de dados usada no blast): Q0P8H3
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819]
+	Tamanho do hit: 393 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.5403e-109
+			Score: 848.0
+			Tamanho do hsp: 437
+			Numero de aa identicos: 181
+			Numero de aa identicos e positivos: 265
+			Numero de gaps: 49
+			Sequencia do hit:
+				MKIVIVGIGYVGLANAILFSKNNENEVVLLDIDENKIQSINNHKSPIKDKLIEKFFVQNISKLHATSNIKEAYFNADFAVIATPTDYDEQLNFFDTRSIE
+				NVLKDIKNINSKINVIIKSTVPIGYTKTIKQKFNMS-----NIVFSPEFLREGSALYDSLYPSRIIIGDKSVLG-----------KTIGD----------
+				---LFLKNIEKKNVDIFYMDSDEAESVKLFSNTYLAMRVGFFNEVDSYARKHNLNSADIIKGISADDRIGKYYNNPSFGYGGYCLPKDTKQLLANFYNIP
+				NSLIKAIVETNEIRKKFITQLILEK---------------KPNILGIYRLIMKQNSDNFRNSVIIDIIKYLQEYNSNIELIIYEPLVKE-KKFLNIKVEN
+				DFNVFGAKVDLIIANRFDDKLKEIKDKVFSADVFYTD
+			Sequencia do alinhamento:
+				+KI + G GYVGL+ A L S++++  V  +D+   K+  +N  +SPI+D+ IEK+  +    L AT +  +AY +ADF +IA PT+YD   N+FDT  IE
+				+V+  + ++N    ++IKST+P+GY + +  K+        N++FSPEFLRE  ALYD+LYPSRII+G   ++            K I D          
+				   L  +   KK++   +M   EAE+VKLF+NTYLA+RV +FNE+D+YA    L+S  II+G+  D RIG +YNNPSFGYGGYCLPKDTKQLLAN+ ++P
+				 +++ AIVE+N  RK FI   +L K               +   +G+YRL MK NSDNFR S I  I+K ++   + I  +I+EP +++ + F   +V N
+				+   F      IIANR+D  L ++K+KV++ D+F  D
+
+Numero alinhamento: 15
+	Hit accession number (relativo a base de dados usada no blast): P96718
+	Definicao: RecName: Full=UDP-glucose 6-dehydrogenase YwqF; Short=UDP-Glc dehydrogenase; Short=UDP-GlcDH; Short=UDPGDH [Bacillus subtilis subsp. subtilis str. 168]
+	Tamanho do hit: 440 aa
+	Numero de hsps: 1
+		Numero do hsp:1
+			E-value: 1.85072e-41
+			Score: 392.0
+			Tamanho do hsp: 423
+			Numero de aa identicos: 120
+			Numero de aa identicos e positivos: 195
+			Numero de gaps: 64
+			Sequencia do hit:
+				MNITVIGTGYVGLVTGVSLSEIGHHVTCIDIDAHKIDEMRKGISPIFEPGLEELMRKNTADGRLNFETSYEKGLAQADIIFIAVGTPQKSDGHAN-----
+				-LEQITDAAKRIAKHVKRDTVVVTKSTVPVGTNDLINGLITEHLAEPVS-ISVASNPEFLREGSAIYDTFHGDRIVIG-------------------TAD
+				----EKTANTLEELFR----PFQIPIYQTDIRSAEMIKYASNAFLATKISFINEISNICEKVGADIEAVAYGMGQDKRIGSQFLKAGIGYGGSCFPKDTN
+				ALVQIAGNVEHDFELLKSVIKVNNNQQAMLVDKALNRLGGVTGK-----------TIALLGLSFKPNTDDMREAPSIVIADRLAALDARIRAYDPIA---
+				-VSHAKHVLPQAVEYKETIEEAV
+			Sequencia do alinhamento:
+				+ I V GTGYVGL     LS+  H VT +D+   K+D + +  SPI     +E + K  ++  LN   + +   A +D  F+ +  P   D   N     
+				 +E + D    +   V  D V+V KST+PVG      GL  ++  + V  +++  +PEFLRE  A+YD  +  RI++G                    AD
+				    EK A+    L +       IP     I+ AE +K  +N +LA ++S+ NE+    E  G D +++  G+G D RIG+ +     GYGG C PKDT 
+				 L+    +V  +  ++ ++++ N  ++  + D+ L + G  T             TI +  L+ K N+D+ R++    I  R+ A  A I  ++P     
+				       V+   VE+KE I +A+
+
