@@ -157,3 +157,23 @@ for gene in genes:
                     f.writelines(f"\t\t\t\t{seq_}\n")
                 f.write('\n')
     f.close()
+    
+#Homologia dos genes
+for gene in genes:
+    record=SeqIO.read(f"Informação_genes/{gene}_protein.gb",'genbank')
+    seq=record.seq
+    name=record.name
+    file = open(f'{gene}_blast.txt','r')
+    record_blast = NCBIXML.read(file)
+    file.close()
+    homo = open(f'{gene}_homology.fa', 'w')
+    homo.write(f'>{name}\n{seq}\n')
+    alinhamentos=record_blast.alignments
+    for I,alinhamento in enumerate(alinhamentos):
+       if I!=0:
+            for hsp in alinhamento.hsps:
+                print(hsp)
+                homo.writelines('>' + alinhamento.hit_id + '\n')
+                homo.writelines(hsp.sbjct + '\n')
+    
+    homo.close()
